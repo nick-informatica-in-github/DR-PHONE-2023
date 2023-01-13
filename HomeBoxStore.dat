@@ -1,0 +1,580 @@
+<ToolBoxes>
+  <Item>
+    <Id>com.wondershare.drfonewin.unlock</Id>
+    <Name>
+      <ko-KR> 화면 잠금 해제 </ko-KR>
+      <en-US>Screen Unlock</en-US>
+      <fr-FR>Déverrouillage de l'écran</fr-FR>
+      <de-DE>Bildschirm entsperren</de-DE>
+      <it-IT>Sblocca Schermo </it-IT>
+      <ja-JP>ロック解除</ja-JP>
+      <nl-NL>Ontgrendel Scherm</nl-NL>
+      <es-ES>Desbloqueo de Pantalla</es-ES>
+      <pt-PT>Desbloquear Tela</pt-PT>
+      <ar-SA>Screen Unlock</ar-SA>
+      <zh-CN>屏幕解锁</zh-CN>
+      <zh-TW>屏幕解鎖</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>전화 잠금 화면, FRP, AppleID, MDM 등을 제거합니다</ko-KR>
+      <en-US>Remove phone lock screen,FRP,AppleID,MDM etc.</en-US>
+      <fr-FR>Suppression de l'écran de verrouillage du téléphone, FRP, AppleID, MDM, etc.</fr-FR>
+      <de-DE>Telefonsperrbildschirm entfernen, FRP, Apple ID, MDM, etc.</de-DE>
+      <it-IT>Rimuovi la schermata di blocco del telefono, FRP, AppleID, MDM ecc.</it-IT>
+      <ja-JP>iPhone/Androidの画面ロック、FRPロック、MDMロックなどを解除</ja-JP>
+      <nl-NL>Verwijder het telefoonvergrendelingsscherm, FRP, AppleID, MDM enz.</nl-NL>
+      <es-ES>Eliminar la pantalla de bloqueo del teléfono, FRP, AppleID, MDM, etc.</es-ES>
+      <pt-PT>Remova a tela de bloqueio do telefone, FRP, ID Apple, MDM etc.</pt-PT>
+      <ar-SA>قم بإزالة شاشة قفل الهاتف ، FRP ، Apple ID ، MDM ، إلخ.</ar-SA>
+      <zh-CN>移除屏幕锁屏密码、Google锁、AppleID、激活锁、定制机等</zh-CN>
+      <zh-TW>移除屏幕鎖屏密碼、Google鎖、AppleID、激活鎖、定制機等</zh-TW>
+    </Description>
+    <PictureUrl>tbUnlock</PictureUrl>
+    <Index>0</Index>
+    <ForeColor>49,49,54</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>338,196</Size>
+    <RunMode>process</RunMode>
+	<RunAs>admin</RunAs>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Unlock</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.virtuallocation</Id>
+    <Name>
+      <ko-KR> 가상 위치 </ko-KR>
+      <en-US>Virtual Location</en-US>
+      <fr-FR>Localisation virtuelle</fr-FR>
+      <de-DE>Virtueller Standort</de-DE>
+      <it-IT>Posizione Virtuale</it-IT>
+      <ja-JP>GPS変更</ja-JP>
+      <nl-NL>Virtuele Locatie</nl-NL>
+      <es-ES>Ubicación Virtual</es-ES>
+      <pt-PT>Localização Virtual</pt-PT>
+      <ar-SA>Virtual Location</ar-SA>
+      <zh-CN>虚拟定位</zh-CN>
+      <zh-TW>虛擬定位</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>iOS/Android 기기의 GPS 위치 변경</ko-KR>
+      <en-US>Change GPS location for iOS/Android device</en-US>
+      <fr-FR>Modifier la localisation GPS de l'appareil iOS/Android</fr-FR>
+      <de-DE>GPS Standort für iOS/Android Geräte ändern</de-DE>
+      <it-IT>Modifica la posizione GPS per dispositivo iOS/Android</it-IT>
+      <ja-JP> iOS/AndroidのGPS位置情報を変更</ja-JP>
+      <nl-NL>Wijzig GPS-locatie voor iOS/Android-apparaat</nl-NL>
+      <es-ES>Cambia la Ubicación del GPS en tu dispositivo iOS/Android</es-ES>
+      <pt-PT>Mude a localização de GPS para dispositivo iOS/Android</pt-PT>
+      <ar-SA>تغيير موقع GPS لجهاز iOS / Android</ar-SA>
+      <zh-CN>更改 iOS/Android 设备的 GPS 位置</zh-CN>
+      <zh-TW>更改 iOS/Android 設備的 GPS 位置</zh-TW>
+    </Description>
+    <PictureUrl>tbVirtuallocation</PictureUrl>
+    <Index>1</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>338,196</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>virtuallocation</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.socialapp</Id>
+    <Name>
+      <ko-KR> WhatsApp 전송 </ko-KR>
+      <en-US>WhatsApp Transfer</en-US>
+      <fr-FR>Transfert WhatsApp</fr-FR>
+      <de-DE>WhatsApp Transfer</de-DE>
+      <it-IT>Trasferimento WhatsApp</it-IT>
+      <ja-JP>WhatsAppデータ転送</ja-JP>
+      <nl-NL>WhatsApp Transfer</nl-NL>
+      <es-ES>WhatsApp Respaldo</es-ES>
+      <pt-PT>Transferência do WhatsApp</pt-PT>
+      <ar-SA>WhatsApp Transfer</ar-SA>
+      <zh-CN>WhatsApp 传输</zh-CN>
+      <zh-TW>WhatsApp 傳輸</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>WhatsApp, LINE, Kik, Viber, WeChat 전송, 백업, 복원</ko-KR>
+      <en-US>Transfer, backup, restore WhatsApp, LINE, Kik, Viber, WeChat</en-US>
+      <fr-FR>Transférer, sauvegarder et restaurer WhatsApp, LINE, Kik, Viber, Wechat</fr-FR>
+      <de-DE>WhatsApp, LINE, Kik, Viber und Wechat sichern &amp; wiederherstellen</de-DE>
+      <it-IT>Backup&amp; Ripristina il tuo WhatsApp, LINE, Kik, Viber, WeChat</it-IT>
+      <ja-JP>LINE、WhatsAPP、WeChat、Viber、Kikデータを転送・バックアップ・復元</ja-JP>
+      <nl-NL>Back-up&amp;Herstel je WhatsApp, LINE, Kik, Viber, Wechat</nl-NL>
+      <es-ES>Transfiere, respalda y restaura  WhatsApp, LINE, Kik, Viber, WeChat</es-ES>
+      <pt-PT>Transfira, reserve e restaure dados do Whatsapp, LINE, kik, Viber, Wechat</pt-PT>
+      <ar-SA>نسخ احتياطي&amp;Restore لحسابات WhatsApp, LINE, Kik, Viber, Wechat</ar-SA>
+      <zh-CN>转移，备份，恢复你的WhatsApp，LINE，Kik，Viber，微信</zh-CN>
+      <zh-TW>轉移，備份，恢復你的WhatsApp，LINE，Kik，Viber，微信</zh-TW>
+    </Description>
+    <PictureUrl>tbSocialApp</PictureUrl>
+    <Index>2</Index>
+    <ForeColor>49,49,54</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>49,49,54</HotForeColor>
+    <HotBackColor>49,49,54</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>338,196</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>SocialApp</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.recovery</Id>
+    <Name>
+      <ko-KR> 데이터 복구 </ko-KR>
+      <en-US>Data Recovery</en-US>
+      <fr-FR>Récupération de données</fr-FR>
+      <de-DE>Datenrettung</de-DE>
+      <it-IT>Recupero Dati</it-IT>
+      <ja-JP>データ復元</ja-JP>
+      <nl-NL>Data Herstel</nl-NL>
+      <es-ES>Recuperación de Datos</es-ES>
+      <pt-PT>Recuperação de Dados</pt-PT>
+      <ar-SA>Data Recovery</ar-SA>
+      <zh-CN>数据恢复</zh-CN>
+      <zh-TW>數據恢復</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 휴대폰에서 데이터 복구 </ko-KR>
+      <en-US>Recover data from your phone</en-US>
+      <fr-FR>Récupérer des données de votre téléphone</fr-FR>
+      <de-DE>Daten von Ihrem Handy wiederherstellen</de-DE>
+      <it-IT>Recupera i dati dal tuo telefono</it-IT>
+      <ja-JP>iPhone/Androidの消えたデータを復元</ja-JP>
+      <nl-NL>Herstel data van je telefoon</nl-NL>
+      <es-ES>Recupera datos de tu teléfono</es-ES>
+      <pt-PT>Recupere dados no seu celular</pt-PT>
+      <ar-SA>استرداد البيانات من هاتفك</ar-SA>
+      <zh-CN>恢复手机数据</zh-CN>
+      <zh-TW>恢復手機資料</zh-TW>
+    </Description>
+    <Index>3</Index>
+    <PictureUrl>tbRecovery</PictureUrl>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <ForeColor>49,49,54</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>49,49,54</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <RunAs>admin</RunAs>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Recover</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.repair</Id>
+    <Name>
+      <ko-KR> 시스템 복구 </ko-KR>
+      <en-US>System Repair</en-US>
+      <fr-FR>Réparation du système</fr-FR>
+      <de-DE>Systemreparatur</de-DE>
+      <it-IT>Riparazione Sistema</it-IT>
+      <ja-JP>起動障害から修復</ja-JP>
+      <nl-NL>Systeem Reparatie</nl-NL>
+      <es-ES>Reparación de Sistema</es-ES>
+      <pt-PT>Reparação do Sistema</pt-PT>
+      <ar-SA>System Repair</ar-SA>
+      <zh-CN>系统修复</zh-CN>
+      <zh-TW>系統修復</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> iOS 및 Android 시스템 복구, iTunes 오류 수정 </ko-KR>
+      <en-US>Repair iOS and Android system, fix iTunes errors</en-US>
+      <fr-FR>Réparer les systèmes iOS/Android et l'iTunes</fr-FR>
+      <de-DE>iOS und Android-System, iTunes-Fehler reparieren</de-DE>
+      <it-IT>Ripara il tuo Sistema iOS e Sistema Android</it-IT>
+      <ja-JP>iPhone/Androidシステム、iTunesエラーを修復</ja-JP>
+      <nl-NL>Repareer je iOS systeem, Android systeem, iTunes fouten</nl-NL>
+      <es-ES>Repara el sistema de iOS y Android &amp; errores de iTunes</es-ES>
+      <pt-PT>Repare sistema iOS/Android e erro do iTunes</pt-PT>
+      <ar-SA>إصلاح نظام iOS ونظام Android وأخطاء iTunes</ar-SA>
+      <zh-CN>修复您的iOS系统，Android系统，iTunes错误</zh-CN>
+      <zh-TW>修復您的iOS系統，Android系統，iTunes錯誤</zh-TW>
+    </Description>
+    <PictureUrl>tbRepair</PictureUrl>
+    <Index>4</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Repair</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.clone</Id>
+    <Name>
+      <ko-KR>휴대폰 전송</ko-KR>
+      <en-US>Phone Transfer</en-US>
+      <fr-FR>Transfert de téléphone</fr-FR>
+      <de-DE>Telefon-Transfer</de-DE>
+      <it-IT>Trasferimento Telefono</it-IT>
+      <ja-JP>スマホデータ移行</ja-JP>
+      <nl-NL>Telefoon Transfer</nl-NL>
+      <es-ES>Transferencia Móvil</es-ES>
+      <pt-PT>Transferir Celular</pt-PT>
+      <ar-SA>Phone Transfer</ar-SA>
+      <zh-CN>手机传输</zh-CN>
+      <zh-TW>手機傳輸</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 한 휴대폰에서 다른 휴대폰으로 모든 데이터 복사 </ko-KR>
+      <en-US>Copy all data from one phone to another</en-US>
+      <fr-FR>Migrer les données entre deux téléphones</fr-FR>
+      <de-DE>Alle Daten von einem Handy auf ein anderes kopieren</de-DE>
+      <it-IT>Copiare tutti i dati da un telefono all'altro</it-IT>
+      <ja-JP>iPhone/Androidの間でデータを1-Click移行</ja-JP>
+      <nl-NL>Kopieert alle data van een telefoon naar een andere</nl-NL>
+      <es-ES>Copia todos los datos de un teléfono a otro</es-ES>
+      <pt-PT>Copie todos os dados de um celular para outro</pt-PT>
+      <ar-SA>نسخ كل البيانات من هاتف إلى آخر</ar-SA>
+      <zh-CN>全部数据从一台手机转机到另外一台</zh-CN>
+      <zh-TW>全部數據從一台手機轉機到另外一台</zh-TW>
+    </Description>
+    <PictureUrl>tbClone</PictureUrl>
+    <Index>5</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Clone</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.transfer</Id>
+    <Name>
+      <ko-KR> 휴대폰 관리 </ko-KR>
+      <en-US>Phone Manager</en-US>
+      <fr-FR>Gestionnaire de téléphone</fr-FR>
+      <de-DE>Telefon-Verwaltung</de-DE>
+      <it-IT>Gestore Telefono</it-IT>
+      <ja-JP>スマホ管理</ja-JP>
+      <nl-NL>Telefoon Beheerder</nl-NL>
+      <es-ES>Administrador del Móvil</es-ES>
+      <pt-PT>Gerenciador de Celular</pt-PT>
+      <ar-SA>Phone Manager</ar-SA>
+      <zh-CN>手机管理</zh-CN>
+      <zh-TW>手機管理</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 휴대폰와 컴퓨터간에 데이터 전송 </ko-KR>
+      <en-US>Transfer data between your phone and computer</en-US>
+      <fr-FR>Transférer des données entre votre téléphone et votre ordinateur</fr-FR>
+      <de-DE>Daten zwischen dem Handy und dem Computer übertragen</de-DE>
+      <it-IT>Trasferisce i dati tra il telefono e il computer</it-IT>
+      <ja-JP>iPhone/Androidとパソコンの間でデータを転送</ja-JP>
+      <nl-NL>Zet data over tussen je telefoon en computer</nl-NL>
+      <es-ES>Transfiere datos entre tu teléfono y computadora</es-ES>
+      <pt-PT>Transfira dados entre o seu celular e computador</pt-PT>
+      <ar-SA>نقل البيانات بين الهاتف والكمبيوتر</ar-SA>
+      <zh-CN>在您的手机和计算机之间传输数据</zh-CN>
+      <zh-TW>在您的電話和電腦之間傳輸資料</zh-TW>
+    </Description>
+    <PictureUrl>tbTransfer</PictureUrl>
+    <Index>6</Index>
+    <ForeColor>49,49,54</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>49,49,54</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Transfer</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.backup</Id>
+    <Name>
+      <ko-KR> 휴대폰 백업 </ko-KR>
+      <en-US>Phone Backup</en-US>
+      <fr-FR>Sauvegarde de téléphone</fr-FR>
+      <de-DE>Telefon-Backup</de-DE>
+      <it-IT>Backup Telefono</it-IT>
+      <ja-JP>スマホデータバックアップ</ja-JP>
+      <nl-NL>Telefoon Back-up</nl-NL>
+      <es-ES>Respaldo Móvil</es-ES>
+      <pt-PT>Backup do Celular</pt-PT>
+      <ar-SA>Phone Backup</ar-SA>
+      <zh-CN>手机备份</zh-CN>
+      <zh-TW>手機備份</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 휴대폰 데이터 백업 및 복원 </ko-KR>
+      <en-US>Backup and restore phone data</en-US>
+      <fr-FR>Sauvegarder et restaurer des données</fr-FR>
+      <de-DE>Wiederherstellen &amp;  Sichern von Mobilgerät</de-DE>
+      <it-IT>Backup e ripristino dei dati del tuo telefono</it-IT>
+      <ja-JP>iPhone/AndroidのデータをPCにバックアップ</ja-JP>
+      <nl-NL>Back - up en het herstellen , met inbegrip van de contacten, de foto 's, enz.</nl-NL>
+      <es-ES>Haz una copia de seguridad y recupera los datos</es-ES>
+      <pt-PT>Backup e restaure dados do seu celular</pt-PT>
+      <ar-SA> النسخ الاحتياطي واستعادة  الهاتف الخاص بك  ، والصور  وغيرها من  البيانات، بما في ذلك  الاتصال </ar-SA>
+      <zh-CN>备份和恢复您的手机数据，包括联系人、照片等</zh-CN>
+      <zh-TW>備份和恢復您的手機數據，包括連絡人、照片等</zh-TW>
+    </Description>
+    <PictureUrl>tbBackup</PictureUrl>
+    <Index>7</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Backup</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.eraser</Id>
+    <Name>
+      <ko-KR> 데이터 지우개 </ko-KR>
+      <en-US>Data Eraser</en-US>
+      <fr-FR>Effaceur de données</fr-FR>
+      <de-DE>Datenlöschung</de-DE>
+      <it-IT>Cancella Dati</it-IT>
+      <ja-JP>データ消去</ja-JP>
+      <nl-NL>Data Wisser</nl-NL>
+      <es-ES>Borrador de Datos</es-ES>
+      <pt-PT>Eliminador de Dados</pt-PT>
+      <ar-SA>Data Eraser</ar-SA>
+      <zh-CN>数据擦除</zh-CN>
+      <zh-TW>數據擦除</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 휴대폰에서 데이터를 영구적으로 삭제 </ko-KR>
+      <en-US>Permanently erase data from your phone</en-US>
+      <fr-FR>Effacer définitivement les données de téléphone</fr-FR>
+      <de-DE>Dauerhaftes Löschen von Daten von Ihrem Handy</de-DE>
+      <it-IT>Cancella definitivamente i dati sul tuo telefono</it-IT>
+      <ja-JP>iPhone/Androidのデータを完全消去</ja-JP>
+      <nl-NL>Wist permanent data van je telefoon</nl-NL>
+      <es-ES>Borra permanentemente los datos de tu teléfono</es-ES>
+      <pt-PT>Elimine todos os dados do seu celular</pt-PT>
+      <ar-SA>محو البيانات من هاتفك بشكل دائم</ar-SA>
+      <zh-CN>安全擦除您的手机数据</zh-CN>
+      <zh-TW>安全擦除您的手機數據</zh-TW>
+    </Description>
+    <PictureUrl>tbEraser</PictureUrl>
+    <Index>8</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>Erase</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.passwordmanager</Id>
+    <Name>
+      <ko-KR>암호 관리자</ko-KR>
+      <en-US>Password Manager</en-US>
+      <fr-FR>Gestionnaire de mot de passe</fr-FR>
+      <de-DE>Passwort-Manager</de-DE>
+      <it-IT>Gestore di password</it-IT>
+      <ja-JP>パスワード管理</ja-JP>
+      <nl-NL>Wachtwoord Manager</nl-NL>
+      <es-ES>Administrador de Contraseñas</es-ES>
+      <pt-PT>Gerenciador de Senhas</pt-PT>
+      <ar-SA>Password Manager</ar-SA>
+      <zh-CN>密码管理</zh-CN>
+      <zh-TW>密碼管理</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>iOS 기기에서 비밀번호 복구</ko-KR>
+      <en-US>Recover passwords on iOS device</en-US>
+      <fr-FR>Récupérer les mots de passe sur l'appareil iOS</fr-FR>
+      <de-DE>Passwörter auf iOS-Gerät wiederherstellen</de-DE>
+      <it-IT>Recupera le password sul dispositivo iOS</it-IT>
+      <ja-JP>iPhone/iPad/iPodのパスワードを検出と確認</ja-JP>
+      <nl-NL>Herstel wachtwoorden op iOS-apparaat</nl-NL>
+      <es-ES>Recuperar contraseñas en dispositivos iOS</es-ES>
+      <pt-PT>Recupere senhas em dispositivos iOS</pt-PT>
+      <ar-SA>استعادة كلمات المرور على جهاز iOS</ar-SA>
+      <zh-CN>找回您设备上的各种密码 </zh-CN>
+      <zh-TW>找回您設備上的各種密碼</zh-TW>
+    </Description>
+    <PictureUrl>btnPasswordManager</PictureUrl>
+    <Index>9</Index>
+    <ForeColor>49,49,54</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>49,49,54</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>PasswordManager</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.mirrorgo</Id>
+    <Name>
+      <ko-KR>MirrorGo</ko-KR>
+      <en-US>MirrorGo</en-US>
+      <fr-FR>MirrorGo</fr-FR>
+      <de-DE>MirrorGo</de-DE>
+      <it-IT>MirrorGo</it-IT>
+      <ja-JP>MirrorGo</ja-JP>
+      <nl-NL>MirrorGo</nl-NL>
+      <es-ES>MirrorGo</es-ES>
+      <pt-PT>MirrorGo</pt-PT>
+      <ar-SA>MirrorGo</ar-SA>
+      <zh-CN>MirrorGo</zh-CN>
+      <zh-TW>MirrorGo</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>휴대폰 화면을 PC로 미러링</ko-KR>
+      <en-US>Mirror your phone screen on the PC</en-US>
+      <fr-FR>Recopier de l'écran de &#xD;&#xA;téléphone sur l'ordinateur</fr-FR>
+      <de-DE>Handy-Bildschirm  auf den PC  übertragen</de-DE>
+      <it-IT>Duplica lo schermo del tuo telefono sul PC</it-IT>
+      <ja-JP>スマホの画面をPCにミラーリング</ja-JP>
+      <nl-NL>Spiegel uw telefoonscherm op de pc </nl-NL>
+      <es-ES>Ve la pantalla de tu teléfono en la PC</es-ES>
+      <pt-PT>Espelhe a tela do seu celular no PC </pt-PT>
+      <ar-SA>عرض شاشة هاتفك على جهاز الكمبيوتر</ar-SA>
+      <zh-CN>将手机屏幕镜像到PC</zh-CN>
+      <zh-TW>將手機屏幕鏡像到PC</zh-TW>
+    </Description>
+    <PictureUrl>tbMirrorgo</PictureUrl>
+    <Index>10</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>mirrorgo</Label>
+    </DataCollect>
+  </Item>
+  <Item>
+    <Id>com.wondershare.drfonewin.inclowdz</Id>
+    <Name>
+      <ko-KR>InClowdz</ko-KR>
+      <en-US>InClowdz</en-US>
+      <fr-FR>InClowdz</fr-FR>
+      <de-DE>InClowdz</de-DE>
+      <it-IT>InClowdz</it-IT>
+      <ja-JP>InClowdz</ja-JP>
+      <nl-NL>InClowdz</nl-NL>
+      <es-ES>InClowdz</es-ES>
+      <pt-PT>InClowdz</pt-PT>
+      <ar-SA>InClowdz</ar-SA>
+      <zh-CN>InClowdz</zh-CN>
+      <zh-TW>InClowdz</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>다른 클라우드간에 파일 마이그레이션 및 동기화</ko-KR>
+      <en-US>Migrate and Sync Files between different clouds</en-US>
+      <fr-FR>Migrer et synchroniser fichiers entre clouds</fr-FR>
+      <de-DE>Daten zwischen Clouds migrieren &amp; synchronisieren</de-DE>
+      <it-IT>Migra e sincrona file tra diversi cloud</it-IT>
+      <ja-JP>異なるクラウド間でのファイルの移行と同期</ja-JP>
+      <nl-NL>Migreer en synchroniseer gegevens tussen clouds</nl-NL>
+      <es-ES>Sincroniza archivos entre diferentes nubes</es-ES>
+      <pt-PT>Migre e sincronize arquivo entre diferentes clouds </pt-PT>
+      <ar-SA>تخزين و مزامنة الملفات بين غيوم مختلفة</ar-SA>
+      <zh-CN>迁移和同步不同云盘之间的文件</zh-CN>
+      <zh-TW>遷移和同步不同雲盤之間的文件</zh-TW>
+    </Description>
+    <PictureUrl>tbinclowdz</PictureUrl>
+    <Index>11</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>CardBack</BackgroundPictureUrl>
+    <Size>264,188</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>InClowdz</Label>
+    </DataCollect>
+  </Item>
+</ToolBoxes>

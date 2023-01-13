@@ -1,0 +1,126 @@
+<Modules Id="com.wondershare.drfonewin" >
+  <Module>
+    <Id>com.wondershare.drfonewin.toolkit</Id>
+    <Name>
+      <en-US>ToolKit</en-US>
+    </Name>
+    <SearchPath></SearchPath>
+    <ExecutableName>DrFoneToolKit.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.recovery</Id>
+    <Name>
+      <en-US>Data Recovery</en-US>
+    </Name>
+    <SearchPath>Addins\Recovery</SearchPath>
+    <ExecutableName>DrFoneRecovery.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.backup</Id>
+    <Name>
+      <en-US>Data Backup &amp; Restore</en-US>
+    </Name>
+    <SearchPath>Addins\Backup</SearchPath>
+    <ExecutableName>DrFoneBackup.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.repair</Id>
+    <Name>
+      <en-US>iOS System Recovery</en-US>
+    </Name>
+    <SearchPath>Addins\Repair</SearchPath>
+    <ExecutableName>DrFoneRepair.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.eraser</Id>
+    <Name>
+      <en-US>Data Eraser</en-US>
+    </Name>
+    <SearchPath>Addins\Eraser</SearchPath>
+    <ExecutableName>DrFoneEraser.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.unlock</Id>
+    <Name>
+      <en-US>Lock Screen Removal</en-US>
+    </Name>
+    <SearchPath>Addins\Unlock</SearchPath>
+    <ExecutableName>DrFoneUnlock.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.transfer</Id>
+    <Name>
+      <en-US>TunesGo</en-US>
+    </Name>
+    <SearchPath>Addins\Transfer</SearchPath>
+    <ExecutableName>DrFoneTransfer.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.clone</Id>
+    <Name>
+      <en-US>Copy data phone to phone</en-US>
+    </Name>
+    <SearchPath>Addins\Clone</SearchPath>
+    <ExecutableName>DrFoneClone.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+   <Module>
+    <Id>com.wondershare.drfonewin.socialapp</Id>
+    <Name>
+      <en-US>Restore Social App</en-US>
+    </Name>
+    <SearchPath>Addins\SocialApps</SearchPath>
+    <ExecutableName>DrFoneSocialApp.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.virtuallocation</Id>
+    <Name>
+      <en-US>Virtual Location</en-US>
+    </Name>
+    <SearchPath>Addins\VirtualLocation</SearchPath>
+    <ExecutableName>DrFoneVirtualLocation.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+	<ExecutableArgs>FromToolkit</ExecutableArgs>
+  </Module>
+  <Module>
+    <Id>com.wondershare.drfonewin.passwordmanager</Id>
+    <Name>
+      <en-US>Password Manager</en-US>
+    </Name>
+    <SearchPath>Addins\PasswordManager</SearchPath>
+    <ExecutableName>DrFonePasswordManager.exe</ExecutableName>
+    <ModuleType>exe</ModuleType>
+    <Version></Version>
+    <VersionCode></VersionCode>
+	<ExecutableArgs>FromToolkit</ExecutableArgs>
+  </Module>
+
+</Modules>

@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Layout UseLanDat="false">
+	<Language>
+	    <INF_TrialTitle>
+		    <ENG>Your copy of the software is not registered yet.</ENG>
+			<CHS>您的软件尚未注册授权。</CHS>
+			<CHT>您的軟件尚未註冊授權。</CHT>
+			<PTG>Sua cópia do Software não está registrada.</PTG>
+			<ARA>لم يتم تسجيل نسختك عن البرمجية بعد.</ARA>
+			<FRA>Cette version de dr.fone n'est pas encore enregistrée.</FRA>
+			<DEU>Diese Kopie von dr.fone ist noch nicht registriert.</DEU>
+			<ITA>La tua Copia del Software non registrata.</ITA>
+			<JPN>製品登録されていません。</JPN>
+			<ESP>El programa no está registrado.</ESP>
+			<NLD>Je kopie van de software is nog niet geregistreerd.</NLD>
+		</INF_TrialTitle>
+		<INF_Description>
+		    <ENG>You can continue to use the trial version, or buy a license to remove all limitations.</ENG>
+			<CHS>您可以点击使用试用版本，或购买许可以消除所有限制。</CHS>
+			<CHT>您可以點擊使用試用版本，或購買許可以消除所有限制。</CHT>
+			<PTG>Você pode continuar a usar a versão de teste ou comprar a licença para remover todas as limitações.</PTG>
+			<ARA>يمكنك الاستمرار في استخدام الإصدار التجريبي، أو شراء ترخيص لإزالة جميع القيود.</ARA>
+			<FRA>Vous pouvez continuer à utiliser la version d'essai ou acheter une licence pour supprimer toutes les limitations.</FRA>
+			<DEU>Sie können die Testversion weiterhin nutzen oder eine Lizenz erwerben, um alle Beschränkungen aufzuheben.</DEU>
+			<ITA>Puoi continuare a valutare la versione di prova o acquistare una licenza per godere di tutti i vantaggi della versione registrata.</ITA>
+			<JPN>試用版は無料でお試しいただけます。ご購入いただくことで、すべての機能をご利用いただけます。</JPN>
+			<ESP>Puedes continuar utilizando la versión de prueba, o compra una licencia para disfrutar de todos los beneficios de la versión registrada.</ESP>
+			<NLD>Je kunt doorgaan met de probeerversie te gebruiken of een licentie aanschaffen om alle limieten te verwijderen</NLD>
+		</INF_Description>
+		<INF_Description1>
+		    <ENG>You can only transfer &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; media file for the trial version, buy a license to remove all the limitations.</ENG>
+			<CHS>您可以使用试用版本传输 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 个文件，购买许可以消除所有限制。</CHS>
+			<CHT>您可以使用試用版本傳輸 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 個文件，購買許可以消除所有限制。</CHT>
+			<PTG>Você apenas pode transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; músicas na versão de teste, compre uma licença para remover todas as limitações.</PTG>
+			<ARA>يمكنك فقط نقل {0} أغاني باستخدام النسخة التجريبية، قم بشراء ترخيص لإزالة كافة القيود.</ARA>
+			<FRA>Vous ne pouvez transférer que {0} chanson(s) pour la version d'essai, veuillez acheter une licence pour supprimer toutes les limitations.</FRA>
+			<DEU>Sie können in der Testversion nur &lt;font color="#FF0000"&gt;{0}&lt;/font&gt;Musikstücke übertragen. Erwerben Sie eine Lizenz, um alle Beschränkungen aufzuheben.</DEU>
+			<ITA>You can only transfer &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; songs for the trial version, buy a license to remove all the limitations.</ITA>
+			<JPN>試用版では&lt;font color="#FF0000"&gt;{0}&lt;/font&gt;つの曲のみ転送できます。製品版の全機能をお楽しみいただけるよう、ライセンスを購入してください。</JPN>
+			<ESP>Solo puedes transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; archivos multimedias en la versión de prueba. Compra una licencia para quitar todas las limitaciones.</ESP>
+			<NLD>Je kunt maar &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; nummers overzetten met de probeerversie, koop een licentie om alle limieten te verwijderen.</NLD>
+		</INF_Description1>
+		<INF_Description2>
+		    <ENG>You can only transfer &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; photos for the trial version, buy a license to remove all the limitations.</ENG>
+			<CHS>您可以使用试用版本传输 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 张照片，购买许可以消除所有限制。</CHS>
+			<CHT>您可以使用試用版本傳輸 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 張照片，购买许可以消除所有限制。</CHT>
+			<PTG>Você apenas pode transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; fotos na versão de teste, compre uma licença para remover todas as limitações.</PTG>
+			<ARA>يمكنك فقط نقل {0} صور باستخدام النسخة التجريبية، قم بشراء ترخيص لإزالة كافة القيود.</ARA>
+			<FRA>Vous ne pouvez transférer que {0} photo(s) pour la version d'essai, veuillez acheter une licence pour supprimer toutes les limitations.</FRA>
+			<DEU>Sie können in der Testversion nur &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; Fotos übertragen. Erwerben Sie eine Lizenz, um alle Beschränkungen aufzuheben.</DEU>
+			<ITA>Puoi trasferire solo &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; foto con la versione di prova; acquista una licenza per rimuovere tutte le limitazioni.</ITA>
+			<JPN>試用版では&lt;font color="#FF0000"&gt;{0}&lt;/font&gt;枚写真のみ転送できます。製品版の全機能をお楽しみいただけるよう、ライセンスを購入してください。</JPN>
+			<ESP>Sólo puedes transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; fotos para la versión de prueba. Compra una licencia para quitar todas las limitaciones.</ESP>
+			<NLD>Je kunt maar &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; nummers overzetten met de probeerversie, koop een licentie om alle limieten te verwijderen.</NLD>
+		</INF_Description2>
+		<INF_Description3>
+		    <ENG>You can only transfer &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; contacts or messages for the trial version, buy a license to remove all the limitations.</ENG>
+			<CHS>您可以使用试用版本传输 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 条信息，购买许可以消除所有限制。</CHS>
+			<CHT>您可以使用試用版本傳輸 &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; 條信息，購買許可以消除所有限制。</CHT>
+			<PTG>Você apenas pode transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; contactos na versão de teste, compre uma licença para remover todas as limitações.</PTG>
+			<ARA>يمكنك فقط نقل {0} جهات اتصال أو رسائل باستخدام الإصدار التجريبي، وقم بشراء ترخيص لإزالة كافة القيود.</ARA>
+			<FRA>Vous ne pouvez transférer que {0} contact(s) ou message(s) pour la version d'essai, veuillez acheter une licence pour supprimer toutes les limitations.</FRA>
+			<DEU>Sie können in der Testversion nur &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; Kontakte übertragen. Erwerben Sie eine Lizenz, um alle Beschränkungen aufzuheben.</DEU>
+			<ITA>Puoi trasferire solo &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; contatti o messaggi con la versione di prova; acquista una licenza per rimuovere tutte le limitazioni.</ITA>
+			<JPN>試用版では&lt;font color="#FF0000"&gt;{0}&lt;/font&gt;つの連絡先・メーセージのみ転送できます。製品版の全機能をお楽しみいただけるよう、ライセンスを購入してください。</JPN>
+			<ESP>Sólo puedes transferir &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; contactos o mensajes para la versión de prueba. Compra una licencia para quitar todas las limitaciones.</ESP>
+			<NLD>Je kunt maar &lt;font color="#FF0000"&gt;{0}&lt;/font&gt; contacten en berichten overzetten met de probeerversie, koop een licentie om alle limieten te verwijderen.</NLD>
+		</INF_Description3>
+		<INF_RegisterText>
+		    <ENG>Register</ENG>
+			<CHS>注册</CHS>
+			<CHT>註冊</CHT>
+			<PTG>Registrar</PTG>
+			<ARA> التسجيل</ARA>
+			<FRA>S'inscrire</FRA>
+			<DEU>Registrieren</DEU>
+			<ITA>Registrazione</ITA>
+			<JPN>登録</JPN>
+			<ESP>Registrarse</ESP>
+			<NLD>Registreer</NLD>
+		</INF_RegisterText>
+		<INF_BuyNowText>
+		    <ENG>See Pricing</ENG>
+			<CHS>购买</CHS>
+			<CHT>購買</CHT>
+			<PTG>Compre Já</PTG>
+			<ARA>   اشتري الآن</ARA>
+			<FRA>Acheter</FRA>
+			<DEU>Jetzt kaufen</DEU>
+			<ITA>Acquista ora</ITA>
+			<JPN>購入</JPN>
+			<ESP>Comprar</ESP>
+			<NLD>Koop nu</NLD>
+		</INF_BuyNowText>
+		<INF_ContinueTrialText>
+		    <ENG>Trial</ENG>
+			<CHS>试用</CHS>
+			<CHT>試用</CHT>
+			<PTG>Teste</PTG>
+			<ARA>نسخة تجريبية</ARA>
+			<FRA>Continuer</FRA>
+			<DEU>Testversion</DEU>
+			<ITA>Versione di prova</ITA>
+			<JPN>試用版</JPN>
+			<ESP>Prueba</ESP>
+			<NLD>Trial</NLD>
+		</INF_ContinueTrialText>
+		<INF_CancelText>
+		    <ENG>Cancel</ENG>
+			<CHS>取消</CHS>
+			<CHT>取消</CHT>
+			<PTG>Cancelar</PTG>
+			<ARA>إلغاء</ARA>
+			<FRA>Annuler</FRA>
+			<DEU>Abbrechen</DEU>
+			<ITA>Annulla</ITA>
+			<JPN>キャンセル</JPN>
+			<ESP>Cancelar</ESP>
+			<NLD>Test</NLD>
+		</INF_CancelText>
+		<INF_TrialItemTitle1>
+		    <ENG>Main Benefits</ENG>
+			<CHS>主要功能</CHS>
+			<CHT>主要功能</CHT>
+			<PTG>Benefícios Principais</PTG>
+			<ARA>الفوائد الرئيسية</ARA>
+			<FRA>Les principaux avantages.</FRA>
+			<DEU>Hauptvorteile</DEU>
+			<ITA>Principali Vantaggi</ITA>
+			<JPN>メリット</JPN>
+			<ESP>Principales beneficios</ESP>
+			<NLD>Belangrijkste Voordelen</NLD>
+		</INF_TrialItemTitle1>		
+		<INF_TrialItemTitle2>
+		    <ENG>Trial</ENG>
+			<CHS>试用</CHS>
+			<CHT>試用</CHT>
+			<PTG>Julgamento</PTG>
+			<ARA>نسخة تجريبية</ARA>
+			<FRA>Version d'essai</FRA>
+			<DEU>Testversion</DEU>
+			<ITA>Versione di prova</ITA>
+			<JPN>試用版</JPN>
+			<ESP>Prueba</ESP>
+			<NLD>Test</NLD>
+		</INF_TrialItemTitle2>
+		<INF_TrialItemTitle3>
+		    <ENG>Registed</ENG>
+			<CHS>已注册</CHS>
+			<CHT>已註冊</CHT>
+			<PTG>Registrado</PTG>
+			<ARA>مسجل</ARA>
+			<FRA>Enregistrée</FRA>
+			<DEU>Registriert</DEU>
+			<ITA>Registrato</ITA>
+			<JPN>製品版</JPN>
+			<ESP>Registrado</ESP>
+			<NLD>Geregistreerd</NLD>
+		</INF_TrialItemTitle3>
+			
+		<INF_RecoveryProductName>
+			<ENG>- Data Recovery</ENG>
+			<CHS>- 数据恢复</CHS>
+			<CHT>- 數據恢復</CHT>
+			<PTG>- Recuperação de Dados</PTG>
+			<ARA>- استرجاع البيانات</ARA>
+			<FRA>- Récupération de données</FRA>
+			<DEU>- Datenrettung</DEU>
+			<ITA>- Recupero Dati</ITA>
+			<JPN>- データ復元</JPN>
+			<ESP>- Recuperación de Datos</ESP>
+			<NLD>- Data Herstel</NLD>
+		</INF_RecoveryProductName>
+		<INF_IOSRecoverIntroduce>
+			<ENG>Recover deleted contacts, messages, photos, notes, etc. from iOS  devices, iTunes and iCloud backup files.</ENG>
+			<CHS>从 iOS 设备，iTunes 备份和iCloud 备份中恢复已删除的联系人、短信、照片、备忘录等。</CHS>
+			<CHT>從 iOS 設備，iTunes 備份和iCloud 備份中恢復已刪除的聯繫人，短信，照片，備忘錄等。</CHT>
+			<PTG>استعادة جهات الاتصال والرسائل والصور والملاحظات المحذوفة، وما إلى ذلك من أجهزة iOS وملفات النسخ الاحتياطي على آيكلود وآيتونز.</PTG>
+			<ARA>Recover deleted contacts, messages, photos, notes, etc from iOS or Android device, for iOS device support recover from iTunes and iCloud backup files.</ARA>
+			<FRA>Récupérer les contacts, les messages, les photos, les notes, etc. supprimés, depuis les appareils iOS, iTunes et les fichiers de sauvegarde iCloud.</FRA>
+			<DEU>Gelöschte Kontakte, Nachrichten, Fotos, Notizen usw. von iOS-Geräten, iTunes und iCloud-Backupdateien wiederherstellen.</DEU>
+			<ITA>Recupera i contatti cancellati, messaggi, foto, note, ecc. da dispositivi iOS, iTunes e file di backup iCloud.</ITA>
+			<JPN>iOSデバイス・iTunes・iCloudバックアップから削除された連絡先、メッセージ、写真、メモなどを復元。</JPN>
+			<ESP>Recupera contactos, mensajes, fotos, notas, etc. desde dispositivos iOS, y la copia de seguridad de iTunes y iCloud.</ESP>
+			<NLD>Herstellen van verwijderde contacten, berichten, foto's, notities, etc. van iOS apparaten, iTunes en iCloud back-up bestanden.</NLD>
+		</INF_IOSRecoverIntroduce>
+		<INF_AndroidRecoverIntroduce>
+			<ENG>Recover deleted contacts, messages, photos, notes, etc. from Android devices, including broken devices and SD cards.</ENG>
+			<CHS>从 Android 设备中，包括损坏的设备和 SD 卡，恢复已删除的联系人、短信、照片、备忘录等。</CHS>
+			<CHT>從 Android 設備中，包括損壞的設備和 SD 卡，恢復已刪除的聯繫人，短信，照片，備忘錄等。</CHT>
+			<PTG>Recupera arquivos eliminados como contactos, mensagens, fotos, notas, entre outros de dispositivos Android, incluindo dispositivos e cartões SD avariados.</PTG>
+			<ARA>استعادة جهات الاتصال والرسائل والصور والملاحظات المحذوفة، وما إلى ذلك من أجهزة الأندرويد، بما في ذلك الأجهزة المعطلة وبطاقات SD.</ARA>
+			<FRA>Récupérer les contacts supprimés, les messages, les photos, les notes, etc. des appareils Android, y compris les périphériques cassés et les cartes SD.</FRA>
+			<DEU>Gelöschte Kontakte, Nachrichten, Fotos, Notizen usw. von Android-Geräten inkl. defekten Geräten und SD-Karten wiederherstellen.</DEU>
+			<ITA>Recupera i contatti cancellati, messaggi, foto, note, ecc. da dispositivi Android, compresi i dispositivi rotti e SD card.</ITA>
+			<JPN>Androidデバイスから（破損したデバイスやSDカードなども含めて）削除された連絡先、メッセージ、写真、メモなどを復元。</JPN>
+			<ESP>Recupera contactos, mensajes, fotos, notas, etc. de dispositivos Android, incluyendo tarjetas SD y dispositivos rotos.</ESP>
+			<NLD>Herstellen van verwijderde contacten, berichten, foto's, notities, etc. van Android apparaten, inclusief kapotte apparaten en SD kaarten.</NLD>
+		</INF_AndroidRecoverIntroduce>
+		<INF_RecoveryBenifit1>
+			<ENG>Scan device data</ENG>
+			<CHS>扫描设备数据</CHS>
+			<CHT>掃描設備數據</CHT>
+			<PTG>Escaneando dados do dispositivo</PTG>
+			<ARA>فحص بيانات الجهاز</ARA>
+			<FRA>Scanner les données de l'appareil</FRA>
+			<DEU>Gerätedaten scannen</DEU>
+			<ITA>Analisi dei dati del dispositivo</ITA>
+			<JPN>デバイスのデータをスキャン</JPN>
+			<ESP>Escanear datos de dispositivo</ESP>
+			<NLD>Scan toestel gegevens</NLD>
+		</INF_RecoveryBenifit1>
+		<INF_RecoveryBenifit2>
+			<ENG>Preview iTunes backup</ENG>
+			<CHS>预览 iTunes 备份</CHS>
+			<CHT>預覽 iTunes 備份</CHT>
+			<PTG>Pré-visualizar backup do iTunes</PTG>
+			<ARA>معاينة النسخة آيتونز الاحتياطية</ARA>
+			<FRA>Aperçu de la sauvegarde d'iTunes</FRA>
+			<DEU>Das iTunes-Backup in der Vorschau ansehen.</DEU>
+			<ITA>Anteprima backup iTunes</ITA>
+			<JPN>iTunesのバックアップをプレビュー</JPN>
+			<ESP>Previsualizar la copia de seguridad de iTunes</ESP>
+			<NLD>Bekijk de iTunes back-up</NLD>
+		</INF_RecoveryBenifit2>
+		<INF_RecoveryBenifit3>
+			<ENG>Preview iCloud backup</ENG>
+			<CHS>预览 iCloud 备份</CHS>
+			<CHT>預覽 iCloud 備份</CHT>
+			<PTG>Pré-visualizar backup do iCloud</PTG>
+			<ARA>معاينة النسخة آيكلاود الاحتياطية</ARA>
+			<FRA>Aperçu de la sauvegarde d'iCloud</FRA>
+			<DEU>iCloud-Backups in der Vorschau ansehen</DEU>
+			<ITA>Anteprima Backup iCloud</ITA>
+			<JPN>iCloudバックアップをプレビュー</JPN>
+			<ESP>Previsualizar la copia de seguridad de iCloud</ESP>
+			<NLD>>Bekijk de iCloud back-up</NLD>
+		</INF_RecoveryBenifit3>
+		<INF_RecoveryBenifit4>
+			<ENG>Recover data</ENG>
+			<CHS>恢复数据</CHS>
+			<CHT>恢復數據</CHT>
+			<PTG>استرجاع البيانات</PTG>
+			<ARA>Recover data</ARA>
+			<FRA>Restaurer des données</FRA>
+			<DEU>Daten wiederherstellen</DEU>
+			<ITA>Recupera i dati</ITA>
+			<JPN>データ復元</JPN>
+			<ESP>Recuperar datos</ESP>
+			<NLD>Herstel gegevens</NLD>
+		</INF_RecoveryBenifit4>
+		<INF_RecoveryBenifit5>
+			<ENG>Scan SD card data</ENG>
+			<CHS>扫描 SD 卡数据</CHS>
+			<CHT>掃描 SD 卡數據</CHT>
+			<PTG>Escanear s dados do cartão SD</PTG>
+			<ARA>فحص بيانات بطاقة الذاكرة</ARA>
+			<FRA>Scanner les données de la carte SD</FRA>
+			<DEU>SD-Kartendaten scannen</DEU>
+			<ITA>Scansione dati della scheda SD</ITA>
+			<JPN>SDカードのデータをスキャン</JPN>
+			<ESP>Escanear los datos de la tarjeta SD</ESP>
+			<NLD>Scan SD kaart data</NLD>
+		</INF_RecoveryBenifit5>
+		<INF_RecoveryBenifit6>
+			<ENG>Preview data</ENG>
+			<CHS>预览数据</CHS>
+			<CHT>預覽數據</CHT>
+			<PTG>Pré-visualizar dados</PTG>
+			<ARA>مراجعة البيانات</ARA>
+			<FRA>Prévisualiser les données</FRA>
+			<DEU>Daten in der Vorschau ansehen</DEU>
+			<ITA>Anteprima dati</ITA>
+			<JPN>データをプレビュー</JPN>
+			<ESP>Vista previa de datos</ESP>
+			<NLD>Bekijk data</NLD>
+		</INF_RecoveryBenifit6>
+		<INF_RecoveryBenifit7>
+			<ENG>Preview full messages</ENG>
+			<CHS>预览全部信息</CHS>
+			<CHT>預覽全部信息</CHT>
+			<PTG>Pré-visualize mensagens completas</PTG>
+			<ARA>معاينة الرسائل الكاملة</ARA>
+			<FRA>Aperçu des messages complets</FRA>
+			<DEU>Vollständige Nachrichten in der Vorschau ansehen</DEU>
+			<ITA>Anteprima completa messaggi</ITA>
+			<JPN>すべてのメッセージをプレビュー</JPN>
+			<ESP>Previsualizar mensajes completos</ESP>
+			<NLD>Bekijk de volledige berichten</NLD>
+		</INF_RecoveryBenifit7>
+		
+		<INF_EraserProductName>
+			<ENG>- Data Eraser</ENG>
+			<CHS>- 数据擦除</CHS>
+			<CHT>- 數據擦除</CHT>
+			<PTG>- Eliminador de Dados</PTG>
+			<ARA>- أداة محو البيانات</ARA>
+			<FRA>- Effaceur de données</FRA>
+			<DEU>- Datenlöschung</DEU>
+			<ITA>- Cancellare Dati</ITA>
+			<JPN>- データ消去</JPN>
+			<ESP>- Borrador de Datos</ESP>
+			<NLD>- Data Wisser</NLD>
+		</INF_EraserProductName>
+		<INF_EraserIntroduce>
+			<ENG>Permanently erase private data or fully wipe your phone to protect  your privacy.</ENG>
+			<CHS>永久擦除手机设备数据以保护您的隐私。</CHS>
+			<CHT>永久擦除手機設備數據以保護您的隱私。</CHT>
+			<PTG>Elimine permanentemente dados privados ou limpe completamente o seu celular para proteger a sua privacidade.</PTG>
+			<ARA>محو البيانات الخاصة نهائياً أو محو هاتفك تماماً لحماية خصوصيتك.</ARA>
+			<FRA>Effacer définitivement les données privées ou effacer complètement votre téléphone pour protéger votre vie privée.</FRA>
+			<DEU>Entfernen Sie persönliche Daten dauerhaft oder löschen Sie Ihr Handy vollständig, um Ihre Privatsphäre zu schützen.</DEU>
+			<ITA>Cancelli definitivamente i dati privati o pulisci completamente il telefono per proteggere la tua privacy.</ITA>
+			<JPN>個人情報を保護するため、スマホのデータを完全に消去する</JPN>
+			<ESP>Borrar permanente y completamente tu teléfono para proteger tu privacidad</ESP>
+			<NLD>Permanent wissen van prive data of je telefoon compleet wissen om je privacy te beschermen.</NLD>
+		</INF_EraserIntroduce>
+		<INF_EraseBenifit1>
+			<ENG>Wipe all data</ENG>
+			<CHS>擦除所有数据</CHS>
+			<CHT>擦除所有數據</CHT>
+			<PTG>Limpe todos os dados</PTG>
+			<ARA>محو جميع البيانات</ARA>
+			<FRA>Effacer toutes les données</FRA>
+			<DEU>Alle Daten löschen</DEU>
+			<ITA>Cancella tutti i dati</ITA>
+			<JPN>すべてのデータを消去する</JPN>
+			<ESP>Borrar todos los datos</ESP>
+			<NLD>Wis alle data</NLD>
+		</INF_EraseBenifit1>
+		<INF_EraseBenifit2>
+			<ENG>Erase private data</ENG>
+			<CHS>擦除隐私数据</CHS>
+			<CHT>擦除隱私數據</CHT>
+			<PTG>Excluir dados privados</PTG>
+			<ARA>حذف البيانات الخاصة</ARA>
+			<FRA>Effacer les données privées</FRA>
+			<DEU>Private Daten löschen</DEU>
+			<ITA>Cancella i dati privati</ITA>
+			<JPN>個人情報を消去</JPN>
+			<ESP>Eliminar Datos Privados</ESP>
+			<NLD>Wis prive data</NLD>
+		</INF_EraseBenifit2>
+		<INF_EraseBenifit3>
+			<ENG>Erase Deleted Files</ENG>
+			<CHS>已删除文件擦除</CHS>
+			<CHT>已刪除檔擦除</CHT>
+			<PTG>Apagar Arquivos Apagados</PTG>
+			<ARA>Erase Deleted Files</ARA>
+			<FRA>Effacer les fichiers supprimés</FRA>
+			<DEU>Gelöschte Daten Entfernen</DEU>
+			<ITA>Cancellare i File Eliminati</ITA>
+			<JPN>削除されたデータを消去</JPN>
+			<ESP>Eliminar archivos borrados</ESP>
+			<NLD>Erase Deleted Files</NLD>
+		</INF_EraseBenifit3>
+		<INF_EraseBenifit4>
+			<ENG>Space Saver</ENG>
+			<CHS>空间优化</CHS>
+			<CHT>空間優化</CHT>
+			<PTG>Libertador de Espaço</PTG>
+			<ARA>Space Saver</ARA>
+			<FRA>Economiseur d'espace</FRA>
+			<DEU>Daten Aufräum-Dienst</DEU>
+			<ITA>Salva Spazio</ITA>
+			<JPN>写真を圧縮＆保存</JPN>
+			<ESP>Liberador de espacio</ESP>
+			<NLD>Space Saver</NLD>
+		</INF_EraseBenifit4>	
+		<INF_EraseBenifit5>
+			<ENG>iOS Optimizer</ENG>
+			<CHS>iOS系统优化</CHS>
+			<CHT>iOS系統優化</CHT>
+			<PTG>Otimizador iOS</PTG>
+			<ARA>iOS Optimizer</ARA>
+			<FRA>Optimiseur iOS</FRA>
+			<DEU>iOS-Optimierer</DEU>
+			<ITA>iOS Optimizer</ITA>
+			<JPN>iOSを高速化</JPN>
+			<ESP>Optimizador de iOS</ESP>
+			<NLD>iOS Optimizer</NLD>
+		</INF_EraseBenifit5>		
+		<INF_CloneProductName>
+		    <ENG>- Phone Transfer</ENG>
+			<CHS>- 手机传输</CHS>
+			<CHT>- 手機傳輸</CHT>
+			<PTG>- Transferência do Telefone</PTG>
+			<ARA>- نقل الهاتف</ARA>
+			<FRA>- Transfert de téléphone</FRA>
+			<DEU>- Telefon-Transfer</DEU>
+			<ITA>- Trasferimento Telefono</ITA>
+			<JPN>- スマホデータ移行</JPN>
+			<ESP>- Transferencia Móvil</ESP>
+			<NLD>- Telefoon Transfer</NLD>
+		</INF_CloneProductName>
+		<INF_CloneIntroduce>
+		    <ENG>Clone data between iOS/Android device, including contacts, messages, calendars, photos etc.</ENG>
+			<CHS>转移 Android 和 iOS 设备数据，包括联系人、短信、日历、照片等。</CHS>
+			<CHT>轉移 Android 和 iOS 設備數據，包括聯繫人，短信，日曆，照片等。</CHT>
+			<PTG>Copie dados entre dispositivos iOS/Android incluindo contactos, mensagens, calendários, fotos, etc.</PTG>
+			<ARA>استنساخ البيانات بين جهاز iOS/ أندرويد، بما في ذلك جهات الاتصال والرسائل والتقويمات والصور وما إلى ذلك.</ARA>
+			<FRA>Migrer des données entre iOS/appareil Android, y compris les contacts, les messages, les calendriers, les photos, etc.</FRA>
+			<DEU>Daten zwischen iOS/Android-Geräten kopieren inkl. Kontakten, Nachrichten Kalendern, Fotos usw.</DEU>
+			<ITA>Clonare i dati tra dispositivo iOS/Android, compresi i contatti, messaggi, calendari, foto, ecc.</ITA>
+			<JPN>iOS/Androidデバイス間のデータ移行（連絡先、メッセージ、カレンダー、写真などを含む）</JPN>
+			<ESP>Clonar los datos entre dispositivo iOS/Android, incluyendo contactos, mensajes, calendarios, fotos, etc.</ESP>
+			<NLD>Kloon data tussen iOS/Android apparaat, inclusief contacten, berichten, kalenders, foto's, etc.</NLD>
+		</INF_CloneIntroduce>
+		<INF_CloneBenifit1>
+			<ENG>Clone data between two devices</ENG>
+			<CHS>支持两个设备间迁移数据</CHS>
+			<CHT>支持兩個設備間遷移數據</CHT>
+			<PTG>Clonar dados entre dois dispositivos</PTG>
+			<ARA>استنساخ البيانات بين جهازين</ARA>
+			<FRA>Migrer des données entre deux périphériques</FRA>
+			<DEU>Daten zwischen zwei Geräten kopieren</DEU>
+			<ITA>Clonare dati tra due dispositivi</ITA>
+			<JPN>デバイス間のデータ移行</JPN>
+			<ESP>Clonar datos entre dos dispositivos</ESP>
+			<NLD>Kloon data tussen twee apparaten</NLD>
+		</INF_CloneBenifit1>
+		<INF_SwitchTrialCount>
+			<ENG>5</ENG>
+			<CHS>5</CHS>
+			<CHT>5</CHT>
+			<PTG>5</PTG>
+			<ARA>5</ARA>
+			<FRA>5</FRA>
+			<DEU>5</DEU>
+			<ITA>5</ITA>
+			<JPN>5</JPN>
+			<ESP>5</ESP>
+			<NLD>5</NLD>
+		</INF_SwitchTrialCount>
+		
+		<INF_CloneBenifit2>
+			<ENG>Transfer contacts</ENG>
+			<CHS>传输联系人</CHS>
+			<CHT>傳輸聯繫人</CHT>
+			<PTG>Transfira contactos</PTG>
+			<ARA>نقل الاتصال</ARA>
+			<FRA>Transférer les contacts</FRA>
+			<DEU>Kontakte übertragen</DEU>
+			<ITA>Trasferimento di contatti</ITA>
+			<JPN>連絡先を転送する</JPN>
+			<ESP>Transferir contactos</ESP>
+			<NLD>Transfer contacten</NLD>
+		</INF_CloneBenifit2>
+		
+		<INF_BackupRestoreProductName>
+		    <ENG>- Phone Backup</ENG>
+			<CHS>- 手机备份</CHS>
+			<CHT>- 手機備份</CHT>
+			<CHT>- Backup &amp; Restore</CHT>
+			<PTG>- Backup do Telefone</PTG>
+			<ARA>- النسخ الاحتياطي للهاتف</ARA>
+			<FRA>- Sauvegarde de téléphone</FRA>
+			<DEU>- Telefon-Backup</DEU>
+			<ITA>- Backup Telefono</ITA>
+			<JPN>- スマホデータバックアップ</JPN>
+			<ESP>- Raspaldo Móvil</ESP>
+			<NLD>- Telefoon Back-up</NLD>
+		</INF_BackupRestoreProductName>
+		<INF_BackupRestoreIntroduce>
+		    <ENG>Backup and restore data from your phone, including app data.</ENG>
+			<CHS>从您的手机备份和还原数据</CHS>
+			<CHT>從您的手機備份和還原數據</CHT>
+			<PTG>Salvaguarde e restaure dados do seu celular, incluindo dados dos aplicativos.</PTG>
+			<ARA>النسخ الاحتياطي واستعادة البيانات من هاتفك، بما في ذلك بيانات التطبيق.</ARA>
+			<FRA>Sauvegarder et restaurer les données de votre téléphone, y compris les données de l'application.</FRA>
+			<DEU>Daten von Ihrem Handy sichern &amp; wiederherstellen inkl. von App-Daten</DEU>
+			<ITA>Backup e ripristino dei dati del telefono, inclusi i dati dell'app.</ITA>
+			<JPN>スマホデータ（アプリデータを含む）のバックアップ＆復元</JPN>
+			<ESP>Respaldar y restaurar datos del teléfono, incluyendo datos de App.</ESP>
+			<NLD>Back-uppen en herstellen van data van je telefoon, inclusief app data.</NLD>
+		</INF_BackupRestoreIntroduce>
+		<INF_BackupRestoreBenifit1>
+		    <ENG>Preview backup contents</ENG>
+			<CHS>预览备份内容</CHS>
+			<CHT>預覽備份內容</CHT>
+			<PTG>Pré-visualize conteúdos do backup</PTG>
+			<ARA>معاينة محتويات النسخ الاحتياطي</ARA>
+			<FRA>Aperçu des contenus de sauvegarde</FRA>
+			<DEU>Backup-Inhalte in der Vorschau ansehen</DEU>
+			<ITA>Anteprima del contenuto del backup</ITA>
+			<JPN>バックアップの内容をプレビュー</JPN>
+			<ESP>Vista previa de los respaldos</ESP>
+			<NLD>Back-uppen en herstellen van data van je telefoon, inclusief app data</NLD>
+		</INF_BackupRestoreBenifit1>
+		<INF_BackupRestoreBenifit2>
+		    <ENG>Backup phone data</ENG>
+			<CHS>备份手机数据</CHS>
+			<CHT>備份手機數據</CHT>
+			<PTG>Salvaguarde dados do celular</PTG>
+			<ARA>نسخ احتياطي لبيانات الهاتف</ARA>
+			<FRA>Sauvegarde des données du téléphone</FRA>
+			<DEU>Backup von Handy-Daten</DEU>
+			<ITA>Backup dati del telefono</ITA>
+			<JPN>スマホデータをバックアップ</JPN>
+			<ESP>Respalda datos del teléfono</ESP>
+			<NLD>Back-up telefoon data</NLD>
+		</INF_BackupRestoreBenifit2>
+		<INF_BackupRestoreBenifit3>
+		    <ENG>Backup social app data</ENG>
+			<CHS>备份社交应用数据</CHS>
+			<CHT>備份社交應用數據</CHT>
+			<PTG>Salvaguarde dados de aplicativos de redes sociais</PTG>
+			<ARA>نسخ احتياطي لبيانات التطبيقات الاجتماعية</ARA>
+			<FRA>Sauvegarde des données de l'application sociale</FRA>
+			<DEU>Backup von Social-App-Daten</DEU>
+			<ITA>Backup dati app social</ITA>
+			<JPN>ソーシャルアプリデータをバックアップ</JPN>
+			<ESP>Respaldar datos de Apps sociales</ESP>
+			<NLD>Back-up sociale app data</NLD>
+		</INF_BackupRestoreBenifit3>
+		<INF_BackupRestoreBenifit4>
+		    <ENG>Restore phone data</ENG>
+			<CHS>恢复手机数据</CHS>
+			<CHT>恢復手機數據</CHT>
+			<PTG>Restaure dados do celular</PTG>
+			<ARA>استعادة بيانات الهاتف</ARA>
+			<FRA>Restauration des données du téléphone</FRA>
+			<DEU>Handy-Daten wiederherstellen</DEU>
+			<ITA>Ripristina i dati del telefono</ITA>
+			<JPN>スマホデータを復元</JPN>
+			<ESP>Restaurar datos del teléfono</ESP>
+			<NLD>Herstel telefoon data</NLD>
+		</INF_BackupRestoreBenifit4>
+		<INF_BackupRestoreBenifit5>
+		    <ENG>Restore WhatsApp, Kik, Line, Viber</ENG>
+			<CHS>还原 WhatsApp, Kik, Line, Viber</CHS>
+			<CHT>還原 WhatsApp, Kik, Line, Viber</CHT>
+			<PTG>Restaure o WhatsApp, Kik, Line, Viber</PTG>
+			<ARA>استعادة بيانات واتس أب، كيك، لاين، فايبر</ARA>
+			<FRA>Restauration de WhatsApp, Kik, Line, Viber</FRA>
+			<DEU>WhatsApp, Kik, Line und Viber wiederherstellen</DEU>
+			<ITA>Ripristina WhatsApp, Kik, Line, Viber</ITA>
+			<JPN>WhatsApp、Kik、Line、Viberデータを復元</JPN>
+			<ESP>Restaurar WhatsApp, Kik, Line, Viber</ESP>
+			<NLD>Herstel WhatsApp, Kik, Line, Viber</NLD>
+		</INF_BackupRestoreBenifit5>
+		<INF_BackupRestoreBenifit6>
+		    <ENG>Restore icloud data</ENG>
+			<CHS>恢复 iCloud 数据</CHS>
+			<CHT>恢復 iCloud 数据</CHT>
+			<PTG>Restore icloud data</PTG>
+			<ARA>Restore icloud data</ARA>
+			<FRA>Restore icloud data</FRA>
+			<DEU>Restore icloud data</DEU>
+			<ITA>Restore icloud data</ITA>
+			<JPN>Restore icloud data</JPN>
+			<ESP>Restore icloud data</ESP>
+			<NLD>Restore icloud data</NLD>
+		</INF_BackupRestoreBenifit6>
+		<INF_BackupRestoreBenifit7>
+		    <ENG>Restore iTunes data</ENG>
+			<CHS>恢复 iTunes 数据</CHS>
+			<CHT>恢復 iTunes 数据</CHT>
+			<PTG>Restore iTunes data</PTG>
+			<ARA>Restore iTunes data</ARA>
+			<FRA>Restore iTunes data</FRA>
+			<DEU>Restore iTunes data</DEU>
+			<ITA>Restore iTunes data</ITA>
+			<JPN>Restore iTunes data</JPN>
+			<ESP>Restore iTunes data</ESP>
+			<NLD>Restore iTunes data</NLD>
+		</INF_BackupRestoreBenifit7>		
+		<INF_RepairProductName>
+		    <ENG>- System Repair</ENG>
+			<CHS>- 系统修复</CHS>
+			<CHT>- 系統修復</CHT>
+			<PTG>- Reparação do Sistema</PTG>
+			<ARA>- إصلاح النظام</ARA>
+			<FRA>- Réparation du système</FRA>
+			<DEU>- Systemreparatur</DEU>
+			<ITA>- Riparazione Sistema</ITA>
+			<JPN>- - システム修復</JPN>
+			<ESP>- Reparación de Sistema</ESP>
+			<NLD>- Systeem Reparatie</NLD>
+		</INF_RepairProductName>
+		<INF_RepairIntroduce>
+		    <ENG>Repair iOS system, i.e. recovery mode loop, white Apple, black screen, etc.</ENG>
+			<CHS>修复 iOS 系统，包括卡在 Recovery 模式、白苹果、黑屏等。</CHS>
+			<CHT>修復 iOS 系統，包括卡在 Recovery 模式，白蘋果，黑屏等。</CHT>
+			<PTG>Repare o sistema iOS bloqueado no ciclo do modo de recuperação, na tela branca ou preta da Apple, etc.</PTG>
+			<ARA>إصلاح نظام iOS، التعليق على وضع الاسترداد، شاشة أبل ، شاشة سوداء، الخ.</ARA>
+			<FRA>Réparation du système iOS, c'est-à-dire récupération de boucle, Apple blanche, écran noir, etc.</FRA>
+			<DEU>Reparieren Sie iOS-System; d. h. Bootschleifen im Wiederherstellungsmodus, weiße Apple-Logos, schwarze Bildschirme usw.</DEU>
+			<ITA>Riparazione del sistema iOS, cioè loop in modalità di recupero, logo bianco Apple, schermo nero, ecc.</ITA>
+			<JPN>iOSデバイスをリカバリーモード、リンゴループなど起動しない症状から復元</JPN>
+			<ESP>Reparar sistema iOS, loop infinito en modo de recuperación, manzana blanca, pantalla negra, etc.</ESP>
+			<NLD>Repareer iOS systeem, bv. herstel mode loop, wit Apple, zwart scherm, etc.</NLD>
+		</INF_RepairIntroduce>
+		<INF_RepairBenifit1>
+		    <ENG>Repair iOS system</ENG>
+			<CHS>修复 iOS 系统</CHS>
+			<CHT>修復 iOS 系統</CHT>
+			<PTG>Repare o sistema iOS</PTG>
+			<ARA>إصلاح نظام iOS</ARA>
+			<FRA>Réparation du système iOS</FRA>
+			<DEU>Das iOS-System reparieren</DEU>
+			<ITA>Riparazione sistema iOS</ITA>
+			<JPN>iphone起動障害から修復</JPN>
+			<ESP>Reparar sistema iOS</ESP>
+			<NLD>Repareer iOS systeem</NLD>
+		</INF_RepairBenifit1>
+		
+		<INF_UnlockProductName>
+			<ENG>- Screen Unlock</ENG>
+			<CHS>- 屏幕解锁</CHS>
+			<CHT>- 屏幕解鎖</CHT>
+			<PTG>- Desbloquear Tela</PTG>
+			<ARA>- فك قفل الشاشة </ARA>
+			<FRA>- Déverrouillage de l'écran</FRA>
+			<DEU>- Bildschirm entsperren</DEU>
+			<ITA>- Sblocca Schermo </ITA>
+			<JPN>- ロック解除</JPN>
+			<ESP>- Desbloqueo de Pantalla</ESP>
+			<NLD>- Ontgrendel Scherm</NLD>
+		</INF_UnlockProductName>
+		<INF_UnlockIntroduce>
+			<ENG>Remove Android lock screen pattern, PIN, fingerprint and password.</ENG>
+			<CHS>解锁 Android 手机屏幕，包括 PIN 码、指纹、密码等。</CHS>
+			<CHT>解鎖 Android 手機屏幕，包括 PIN 碼，指紋，密碼等。</CHT>
+			<PTG>Remova o bloqueio da tela do Android por padrão, PIN, impressões digitais e senha.</PTG>
+			<ARA>إزالة نمط قفل الشاشة، الرمز الشخصي، بصمات الأصابع وكلمة مرور أندرويد.</ARA>
+			<FRA>Supprimer le modèle d'écran de verrouillage Android, le PIN, l'empreinte digitale et le mot de passe.</FRA>
+			<DEU>Entfernen von Android-Sperrbildschirmmuster, PIN, Fingerabdruck und Passwort.</DEU>
+			<ITA>Rimuove il blocco schermo Android, il pin, le impronte digitali e la password.</ITA>
+			<JPN>Androidのロック画面、PIN、指紋認証、パスワードを解除。</JPN>
+			<ESP>Quitar patrón, PIN, huella digital y contraseña de la pantalla bloqueada de Android.</ESP>
+			<NLD>Verwijder Android vergrendeld scherm patroon, PIN, vingerafdruk en wachtwoord.</NLD>
+		</INF_UnlockIntroduce>
+		<INF_UnlockIntroduce1>
+			<ENG>Remove your phone's lock screen.</ENG>
+			<CHS>清除您设备的锁屏密码。</CHS>
+			<CHT>清除您設備的鎖屏密碼。</CHT>
+			<PTG>Remova a tela de bloqueio do seu telefone.</PTG>
+			<ARA>قم بإزالة شاشة قفل هاتفك.</ARA>
+			<FRA>Veuillez enlever l'écran de verrouillage de votre téléphone.</FRA>
+			<DEU>Entfernen Sie den Sperrbildschirm Ihres Telefons.</DEU>
+			<ITA>Rimuovi la schermata di blocco del telefono.</ITA>
+			<JPN>スマホのロック画面を解除します。</JPN>
+			<ESP>Retire la pantalla de bloqueo de su teléfono.</ESP>
+			<NLD>Verwijder het vergrendeld scherm van je telefoon.</NLD>
+		</INF_UnlockIntroduce1>
+		<INF_UnlockIntroduce2>
+			<ENG>Remove your iOS device' lock screen, Apple ID and iCloud account.</ENG>
+			<CHS>移除iOS设备的屏幕锁，Apple ID和iCloud账号。</CHS>
+			<CHT>移除iOS設備的屏幕鎖，Apple ID和iCloud賬號。</CHT>
+			<PTG>Remova bloqueios de tela, IDs da Apple e contas do iCloud para dispositivos iOS.</PTG>
+			<ARA>قم بفك قفل جهاز iOS الخاص بك وافتح حساب آبل وآيكلاود.</ARA>
+			<FRA>Supprimez l'écran de verrouillage de votre appareil iOS, l'identifiant Apple et le compte iCloud.</FRA>
+			<DEU>Entfernen Sie den Sperrbildschirm, die Apple ID und das iCloud-Konto Ihres iOS-Geräts.</DEU>
+			<ITA>Sblocca la schermata del tuo dispositivo iOS, l'ID Apple e l'account iCloud.</ITA>
+			<JPN>iOSデバイスの画面ロック、Apple ID、およびiCloudアカウントを削除します。</JPN>
+			<ESP>Quita el bloqueo de pantalla de dispositivos iOS, Apple ID y la cuenta de iCloud.</ESP>
+			<NLD>Verwijder het vergrendeld scherm, Apple ID en iCloud account van je iOS apparaat.</NLD>
+		</INF_UnlockIntroduce2>
+		<INF_UnlockBenifit1>
+			<ENG>Remove Android lock screen</ENG>
+			<CHS>消除 Android 设备锁屏密码。</CHS>
+			<CHT>清除 Android 設備鎖屏密碼。</CHT>
+			<PTG>Remova o bloqueio da tela do Android</PTG>
+			<ARA>إزالة شاشة قفل أندرويد</ARA>
+			<FRA>Supprimer l'écran de verrouillage Android</FRA>
+			<DEU>Entfernen des Android-Sperrbildschirms</DEU>
+			<ITA>Rimuovere blocco schermo Android</ITA>
+			<JPN>Androidロック画面の解除</JPN>
+			<ESP>Desbloquea la pantalla de Android</ESP>
+			<NLD>Verwijder Android vergrendeld scherm</NLD>
+		</INF_UnlockBenifit1>
+		
+		<INF_UnlockBenifit2>
+			<ENG>Remove lock screen</ENG>
+			<CHS>擦除锁屏密码</CHS>
+			<CHT>擦除鎖屏密碼</CHT>
+			<PTG>Remova a tela de bloqueio.</PTG>
+			<ARA>أزل شاشة القفل</ARA>
+			<FRA>Veuillez enlever l'écran de verrouillage.</FRA>
+			<DEU>Den Sperrbildschirm entfernen.</DEU>
+			<ITA>Rimuovi la schermata di blocco.</ITA>
+			<JPN>ロック画面を解除</JPN>
+			<ESP>Retire la pantalla de bloqueo.</ESP>
+			<NLD>Verwijder vergrendeld scherm.</NLD>
+		</INF_UnlockBenifit2>
+		
+		<INF_UnlockBenifit3>
+			<ENG>Remove Apple ID and iCloud account</ENG>
+			<CHS>移除Apple ID和iCloud账号</CHS>
+			<CHT>移除Apple ID和iCloud賬號</CHT>
+			<PTG>Remova IDs da Apple e contas do iCloud</PTG>
+			<ARA>قم بإزالة حساب آبل وآيكلاود.</ARA>
+			<FRA>Supprimer l'identifiant Apple et le compte iCloud</FRA>
+			<DEU>Entfernen Sie die Apple ID und das iCloud-Konto</DEU>
+			<ITA>Rimuovere l'ID Apple e l'account iCloud</ITA>
+			<JPN>Apple IDとiCloudアカウントを削除する</JPN>
+			<ESP>Quita Apple ID y la cuenta de iCloud</ESP>
+			<NLD>Verwijder Apple ID en iCloud account</NLD>
+		</INF_UnlockBenifit3>
+		
+		<INF_TransferProductName>
+			<ENG>- Phone Manager</ENG>
+			<CHS>- 手机管理</CHS>
+			<CHT>- 手機管理</CHT>
+			<PTG>- Gerenciador de Celular</PTG>
+			<ARA>- مدير الهاتف</ARA>
+			<FRA>- Gestionnaire de téléphone</FRA>
+			<DEU>- Telefon-Verwaltung</DEU>
+			<ITA>- Gestore Telefono</ITA>
+			<JPN>- スマホ管理</JPN>
+			<ESP>- Administrador del Móvil</ESP>
+			<NLD>- Telefoon Beheerder</NLD>
+		</INF_TransferProductName>
+		<INF_TransferIntroduce>
+			<ENG>Transfer files between phone and computer, including music, videos, photos, contacts, messages and applications.</ENG>
+			<CHS>在手机和计算机之间传输文件，包括音乐，视频、照片、联系人、消息和应用程序。</CHS>
+			<CHT>在手機和計算機之間傳輸文件，包括音樂，視頻，照片，聯繫人，消息和應用程序。</CHT>
+			<PTG>Transfira arquivos entre celular e computador incluindo músicas, vídeos, fotos, contactos, mensagens e aplicativos.</PTG>
+			<ARA>نقل الملفات بين الهاتف والكمبيوتر، بما في ذلك الموسيقى والفيديو والصور وجهات الاتصال والرسائل والتطبيقات.</ARA>
+			<FRA>Transfert de fichiers entre le téléphone et l'ordinateur, y compris la musique, les vidéos, les photos, les contacts, les messages et les applications.</FRA>
+			<DEU>Daten zwischen Handy und Computer übertragen inkl. Musik, Videos, Fotos, Kontakten, Nachrichten und Anwendungen.</DEU>
+			<ITA>Trasferisci file tra telefono e computer, tra cui musica, video, foto, contatti, messaggi e applicazioni.</ITA>
+			<JPN>スマホとPC間のファイルを転送（音楽、ビデオ、写真、連絡先、メッセージ、アプリなどを含む）</JPN>
+			<ESP>Transferir archivos entre teléfono y ordenador, incluyendo música, videos, fotos, contactos, mensajes y aplicaciones.</ESP>
+			<NLD>Transfer bestanden tussen tefefoon en computer, inclusief muziek, video's, foto's, contacten, berichten en applicaties.</NLD>
+		</INF_TransferIntroduce>
+		<INF_TransferBenifit1>
+			<ENG>Transfer music and videos</ENG>
+			<CHS>传输音乐和视频</CHS>
+			<CHT>傳輸音樂和視頻</CHT>
+			<PTG>Transfira músicas e vídeos</PTG>
+			<ARA>نقل الموسيقى والفيديو</ARA>
+			<FRA>Transférer de la musique et des vidéos</FRA>
+			<DEU>Musik und Videos übertragen</DEU>
+			<ITA>Trasferire musica e video</ITA>
+			<JPN>音楽とビデオを転送</JPN>
+			<ESP>Transferir música y videos</ESP>
+			<NLD>Transfer muziek en video's</NLD>
+		</INF_TransferBenifit1>
+		<INF_TransferBenifit2>
+			<ENG>Transfer photos</ENG>
+			<CHS>传输图片</CHS>
+			<CHT>傳輸圖片</CHT>
+			<PTG>Transfira fotos</PTG>
+			<ARA>نقل الصور</ARA>
+			<FRA>Transfert de photos</FRA>
+			<DEU>Fotos übertragen</DEU>
+			<ITA>Trasferire foto</ITA>
+			<JPN>写真を転送</JPN>
+			<ESP>Transferir fotos</ESP>
+			<NLD>Transfer foto's</NLD>
+		</INF_TransferBenifit2>
+		<INF_TransferBenifit3>
+			<ENG>Transfer contacts and messages</ENG>
+			<CHS>传输联系人和短信</CHS>
+			<CHT>傳輸聯繫人和短信</CHT>
+			<PTG>Transfira contactos e mensagens</PTG>
+			<ARA>نقل جهات الاتصال والرسائل</ARA>
+			<FRA>Transférer les contacts et les messages</FRA>
+			<DEU>Kontakte und Nachrichten übertragen</DEU>
+			<ITA>Trasferimento di contatti e messaggi</ITA>
+			<JPN>連絡先とメッセージを転送</JPN>
+			<ESP>Transferir contactos y mensajes</ESP>
+			<NLD>Transfer contacten en berichten</NLD>
+		</INF_TransferBenifit3>
+		<INF_TransferBenifit4>
+			<ENG>Install and backup applications</ENG>
+			<CHS>安装和备份应用</CHS>
+			<CHT>安裝和備份應用</CHT>
+			<PTG>Instalar e salvaguardar aplicativos</PTG>
+			<ARA>تثبيت تطبيقات وأخذ نسخ احتياطية عنها</ARA>
+			<FRA>Installer et sauvegarder des applications</FRA>
+			<DEU>Anwendungen installieren und sichern</DEU>
+			<ITA>Installazione e backup applicazioni</ITA>
+			<JPN>アプリのインストールとバックアップ</JPN>
+			<ESP>Instalar y respaldar aplicaciones</ESP>
+			<NLD>Installeer en back-up applicaties</NLD>
+		</INF_TransferBenifit4>
+		<INF_TransferTrialCount>
+			<ENG>10</ENG>
+			<CHS>10</CHS>
+			<CHT>10</CHT>
+			<PTG>10</PTG>
+			<ARA>10</ARA>
+			<FRA>10</FRA>
+			<DEU>10</DEU>
+			<ITA>10</ITA>
+			<JPN>10</JPN>
+			<ESP>10</ESP>
+			<NLD>10</NLD>
+		</INF_TransferTrialCount>
+		
+		<INF_RootProductName>
+			<ENG>- Root</ENG>
+			<CHS>- Root</CHS>
+			<CHT>- Root</CHT>
+			<PTG>- Root</PTG>
+			<ARA>- روت</ARA>
+			<FRA>- Rooter</FRA>
+			<DEU>- Root</DEU>
+			<ITA>- Root</ITA>
+			<JPN>- Android Root化</JPN>
+			<ESP>- Root</ESP>
+			<NLD>- Root</NLD>
+		</INF_RootProductName>
+		
+		<INF_RootIntroduce>
+			<ENG>Gain developer-level permissions for Android.</ENG>
+			<CHS>获取安卓手机Root权限</CHS>
+			<CHT>獲取安卓手機Root權限</CHT>
+			<PTG>Obtenha permissões de nível de administrador para Android.</PTG>
+			<ARA>احصل على صلاحيات على مستوى المطورين للأندرويد.</ARA>
+			<FRA>Obtenez des autorisations de niveau développeur pour Android.</FRA>
+			<DEU>Android-Zugriffsrechte auf Entwicklerniveau erhalten.</DEU>
+			<ITA>Ottieni autorizzazioni a livello di sviluppatore per Android.</ITA>
+			<JPN>Androidデバイスをroot化して、システムの管理権限を取得</JPN>
+			<ESP>Obtener permisos de desarrollador Android</ESP>
+			<NLD>Krijg ontwikkelaar niveau permissies voor Android.</NLD>
+		</INF_RootIntroduce>
+		<INF_RootBenifit1>
+		    <ENG>Root Android device</ENG>
+			<CHS>Root安卓手机</CHS>
+			<CHT>Root安卓手機</CHT>
+			<PTG>Rootear Dispositivo Android</PTG>
+			<ARA>ترويت جهاز أندرويد</ARA>
+			<FRA>Root d'un appareil Android</FRA>
+			<DEU>Android-Geräte rooten</DEU>
+			<ITA>Root dispositivo Android</ITA>
+			<JPN>Androidデバイスをroot化</JPN>
+			<ESP>Root dispositivo Android</ESP>
+			<NLD>Root Android apparaat</NLD>
+		</INF_RootBenifit1>
+	    <INF_SocialAppProductName>
+		  <ENG>- WhatsApp Transfer</ENG>
+		  <CHS>- WhatsApp 传输</CHS>
+		  <CHT>- WhatsApp 傳輸</CHT>
+		  <PTG>- Transferência do WhatsApp</PTG>
+		  <ARA>- نقل واتسأب</ARA>
+		  <FRA>- Transfert WhatsApp</FRA>
+		  <DEU>- WhatsApp Transfer</DEU>
+		  <ITA>- Trasferimento WhatsApp</ITA>
+		  <JPN>- WhatsAppデータ転送</JPN>
+		  <ESP>- WhatsApp Respaldo</ESP>
+		  <NLD>- WhatsApp Transfer</NLD>
+		</INF_SocialAppProductName>
+		<INF_SocialAppIntroduce>
+		   <ENG>Backup and restore data from your phone, including app data.</ENG>
+			<CHS>备份和还原您的手机数据，包括应用数据。</CHS>
+			<CHT>備份和還原您的手機數據，包括應用數據。</CHT>
+			<PTG>Salvaguarde e restaure dados do seu celular, incluindo dados dos aplicativos.</PTG>
+			<ARA>النسخ الاحتياطي واستعادة البيانات من هاتفك، بما في ذلك بيانات التطبيق.</ARA>
+			<FRA>Sauvegarder et restaurer les données de votre téléphone, y compris les données de l'application.</FRA>
+			<DEU>Daten von Ihrem Handy sichern &amp; wiederherstellen inkl. von App-Daten</DEU>
+			<ITA>Backup e ripristino dei dati del telefono, inclusi i dati dell'app.</ITA>
+			<JPN>スマホデータ（アプリデータを含む）のバックアップ＆復元</JPN>
+			<ESP>Respaldar y restaurar datos del teléfono, incluyendo datos de App.</ESP>
+			<NLD>Back-uppen en herstellen van data van je telefoon, inclusief app data.</NLD>
+		</INF_SocialAppIntroduce>
+		<INF_SocialAppBenifit1>
+		   <ENG>Preview app backup content</ENG>
+			<CHS>预览应用数据</CHS>
+			<CHT>預覽應用數據</CHT>
+			<PTG>Visualizar conteúdo de backup do aplicativo</PTG>
+			<ARA>معاينة محتوى النسخة الاحتياطية الخاصة بالتطبيق</ARA>
+			<FRA>Aperçu du contenu de sauvegarde de l'application</FRA>
+			<DEU>Vorschau des Backup-Inhalts ansehen</DEU>
+			<ITA>Anteprima del contenuto del backup dell'app </ITA>
+			<JPN>アプリのバックアップコンテンツをプレビュー</JPN>
+			<ESP>Previsualizar contenidos de respaldo de apps app</ESP>
+			<NLD>Bekijk app back-up inhoud</NLD>
+		</INF_SocialAppBenifit1>
+		<INF_SocialAppBenifit2>
+		<ENG>Backup WhatsApp, Kik, LINE, Viber, Wechat</ENG>
+			<CHS>备份Whatsapp, Kik, LINE, Viber, 微信</CHS>
+			<CHT>備份Whatsapp，Kik，LINE，Viber，微信</CHT>
+			<PTG>Backup WhatsApp, Kik, LINE, Viber, Wechat</PTG>
+			<ARA>نسخ احتياطي لواتس اب وKik وLINE وفايبر وWechat</ARA>
+			<FRA>Sauvegarde de WhatsApp, Kik, LINE, Viber, Wechat</FRA>
+			<DEU>WhatsApp, Kik, LINE, Viber und WeChat sichern</DEU>
+			<ITA>Backup WhatsApp, Kik, LINE, Viber, WeChat</ITA>
+			<JPN>WhatsApp, Kik, LINE, Viber, Wechatデータをバックアップ</JPN>
+			<ESP>Respaldar WhatsApp, Kik, LINE, Viber, Wechat</ESP>
+			<NLD>Back-up WhatsApp, Kik, LINE, Viber, Wechat</NLD>
+		</INF_SocialAppBenifit2>
+		<INF_SocialAppBenifit3>
+		<ENG>Restore WhatsApp, Kik, LINE, Viber, Wechat</ENG>
+			<CHS>还原Whatsapp, Kik, LINE, Viber, 微信</CHS>
+			<CHT>還原Whatsapp，Kik，LINE，Viber，微信</CHT>
+			<PTG>Restaurar WhatsApp, Kik, LINE, Viber, Wechat</PTG>
+			<ARA>استعادة واتس اب وKik وLINE وفايبر وWechat</ARA>
+			<FRA>Restauration de WhatsApp, Kik, LINE, Viber, Wechat</FRA>
+			<DEU>WhatsApp, Kik, LINE, Viber und WeChat wiederherstellen</DEU>
+			<ITA>Ripristina WhatsApp, Kik, LINE, Viber, WeChat</ITA>
+			<JPN>WhatsApp, Kik, LINE, Viber, Wechatデータを復元</JPN>
+			<ESP>Restaurar WhatsApp, Kik, LINE, Viber, Wechat</ESP>
+			<NLD>Herstel WhatsApp, Kik, LINE, Viber, Wechat</NLD>
+		</INF_SocialAppBenifit3>
+		<INF_SocialAppBenifit4>
+			<ENG>Transfer whatsapp from one device to another</ENG>
+			<CHS>从一台设备迁移 WhatsApp 数据到另外一台</CHS>
+			<CHT>從一台設備遷移 WhatsApp 數據到另外一台</CHT>
+			<PTG>Transferir o whatsapp de um dispositivo para outro</PTG>
+			<ARA>نقل ال WhatsApp من جهاز إلى آخر</ARA>
+			<FRA>Transférer WhatsApp d'un appareil à un autre</FRA>
+			<DEU>Übertragen Sie WhatsApp von einem Gerät auf ein anderes</DEU>
+			<ITA>Trasferisci Whatsapp da un dispositivo all'altro</ITA>
+			<JPN>あるデバイスから別のデバイスにwhatsappを転送する</JPN>
+			<ESP>Transfiere WhatsApp de un dispositivo a otro</ESP>
+			<NLD>WhatsApp overzetten van het ene apparaat naar het andere</NLD>
+		</INF_SocialAppBenifit4>		
+		<INF_iTunesRepairTitle>
+			<ENG>- iTunes Repair</ENG>
+			<CHS>- iTunes修复</CHS>
+			<CHT>- iTunes修復</CHT>
+			<PTG>- Reparar iTunes </PTG>
+			<ARA>- إصلاح آيتونز</ARA>
+			<FRA>- Réparation iTunes</FRA>
+			<DEU>- iTunes-Reparatur</DEU>
+			<ITA>- Riparare iTunes</ITA>
+			<JPN>- iTunes修復</JPN>
+			<ESP>- Reparación de iTunes</ESP>
+			<NLD>- iTunes Reparatie</NLD>
+		</INF_iTunesRepairTitle>		
+		<INF_iTunesRepairIntroduce>
+			<ENG>Provide ultimate fix solutions for various iTunes erros.</ENG>
+			<CHS>提供完整的iTunes各种异常修复的解决方案。</CHS>
+			<CHT>提供完整的iTunes各種異常修復的解決方案。</CHT>
+			<PTG>Fornecer soluções completas para vários erros do iTunes.</PTG>
+			<ARA>يوفر حلول إصلاح شاملة لمختلف أخطاء آيتونز.</ARA>
+			<FRA>Fournir des solutions de réparation ultimes pour diverses erreurs iTunes.</FRA>
+			<DEU>Bietet die ultimative Problemlösung für diverse iTunes-Fehler.</DEU>
+			<ITA>Fornisce soluzioni di correzione definitive per vari errori di iTunes.</ITA>
+			<JPN>様々なiTunesエラーや不具合に最適なソリューションを提供します。</JPN>
+			<ESP>Proporciona las mejores soluciones para varios errores de iTunes.</ESP>
+			<NLD>Biedt ultieme repareeroplossingen van verschillende iTunes fouten.</NLD>
+		</INF_iTunesRepairIntroduce>
+		<INF_iTunesRepairBenifit1>
+			<ENG>Check iTunes errors</ENG>
+			<CHS>检测iTunes异常</CHS>
+			<CHT>檢測iTunes異常</CHT>
+			<PTG>Verificar os erros do iTunes</PTG>
+			<ARA>تحقق من أخطاء آيتونز</ARA>
+			<FRA>Vérifiez les erreurs iTunes</FRA>
+			<DEU>Überprüfung auf iTunes-Fehler</DEU>
+			<ITA>Controlla gli errori di iTunes</ITA>
+			<JPN>iTunesのエラーを確認</JPN>
+			<ESP>Comprobar errores de iTunes</ESP>
+			<NLD>Controleer iTunes fouten</NLD>
+		</INF_iTunesRepairBenifit1>
+		<INF_iTunesRepairBenifit2>
+			<ENG>Repair iTunes errors</ENG>
+			<CHS>修复iTunes异常</CHS>
+			<CHT>修復iTunes異常</CHT>
+			<PTG>Reparar erros do iTunes</PTG>
+			<ARA>إصلاح أخطاء آيتونز</ARA>
+			<FRA>Réparez les erreurs iTunes</FRA>
+			<DEU>Reparieren von iTunes-Fehlern</DEU>
+			<ITA>Ripara gli errori di iTunes</ITA>
+			<JPN>iTunesのエラーを修復</JPN>
+			<ESP>Reparar errores de iTunes</ESP>
+			<NLD>Repareer iTunes fouten</NLD>
+		</INF_iTunesRepairBenifit2>
+		<INF_iTunesRepairBenifit3>
+			<ENG>Repair iTunes connect issues</ENG>
+			<CHS>修复iTunes连接设备的问题</CHS>
+			<CHT>修復iTunes連接設備的問題</CHT>
+			<PTG>Reparar problemas de conexão do iTunes</PTG>
+			<ARA>إصلاح مشكلات الاتصال بآيتونز</ARA>
+			<FRA>Réparez les problèmes de connexion à iTunes</FRA>
+			<DEU>Reparieren von iTunes-Verbindungsproblemen</DEU>
+			<ITA>Ripara i problemi di connessione di iTunes</ITA>
+			<JPN>iTunesの接続問題を修復</JPN>
+			<ESP>Reparar problemas de conexión de iTunes</ESP>
+			<NLD>Repareer iTunes verbindingsproblemen</NLD>
+		</INF_iTunesRepairBenifit3>
+		<INF_iTunesRepairBenifit4>
+			<ENG>Repair iTunes syncing errors</ENG>
+			<CHS>修复iTunes同步数据到设备失败的问题</CHS>
+			<CHT>修復iTunes同步資料到設備失敗的問題</CHT>
+			<PTG>Reparar erros de sincronização do iTunes</PTG>
+			<ARA>إصلاح أخطاء التزامن مع آيتونز</ARA>
+			<FRA>Réparez les erreurs de synchronisation iTunes</FRA>
+			<DEU>Reparieren von iTunes-Synchronisationsfehlern</DEU>
+			<ITA>Ripara gli errori di sincronizzazione di iTunes</ITA>
+			<JPN>iTunesの同期エラーを修復</JPN>
+			<ESP>Reparar errores de sincronización de iTunes</ESP>
+			<NLD>Repareer iTunes synchronisatiefouten</NLD>
+		</INF_iTunesRepairBenifit4>
+		<INF_AndroidRepairTitle>
+			<ENG>- Android Repair</ENG>
+			<CHS>- Android系统修复</CHS>
+			<CHT>- Android系統修復</CHT>
+			<PTG>- Reparar Android</PTG>
+			<ARA>- إصلاح أندرويد</ARA>
+			<FRA>- Réparation Android</FRA>
+			<DEU>- Android-Reparatur</DEU>
+			<ITA>- Riparazione Android</ITA>
+			<JPN>- Android修復</JPN>
+			<ESP>- Reparación de Android</ESP>
+			<NLD>- Android Reparatie</NLD>
+		</INF_AndroidRepairTitle>		
+		<INF_AndroidRepairIntroduce>
+			<ENG>Fix Android system and other issues.</ENG>
+			<CHS>修复安卓系统和其他问题。</CHS>
+			<CHT>修復安卓系統和其他問題。</CHT>
+			<PTG>Repare o sistema de Android e outros problemas</PTG>
+			<ARA>إصلاح نظام أندرويد والمشكلات الأخرى.</ARA>
+			<FRA>Réparation du système Android et d'autres problèmes.</FRA>
+			<DEU>Reparieren des Android-Systems und anderer Probleme</DEU>
+			<ITA>Correggi il sistema Android e altri problemi.</ITA>
+			<JPN>Androidシステムなどの問題を修復。</JPN>
+			<ESP>Reparar sistema Android y otros problemas</ESP>
+			<NLD>Repareert Android systeem en andere problemen.</NLD>
+		</INF_AndroidRepairIntroduce>
+		<INF_AndroidRepairBenifit1>
+			<ENG>Fix Android system</ENG>
+			<CHS>修复安卓系统</CHS>
+			<CHT>修復安卓系統</CHT>
+			<PTG>Repare o sistema de Android</PTG>
+			<ARA>إصلاح نظام أندرويد</ARA>
+			<FRA>Réparation du système Android</FRA>
+			<DEU>Reparieren des Android-Systems</DEU>
+			<ITA>Correggi il sistema Android</ITA>
+			<JPN>Androidシステムを修復</JPN>
+			<ESP>Reparar sistema Android</ESP>
+			<NLD>Repareert Android systeem</NLD>
+		</INF_AndroidRepairBenifit1>
+		<INF_VirtualLocationTitle>
+			<ENG>- Virtual Location</ENG>
+			<CHS>- 虚拟定位</CHS>
+			<CHT>- 虛擬定位</CHT>
+			<PTG>- Localização Virtual</PTG>
+			<ARA>- الموقع الافتراضي</ARA>
+			<FRA>- Localisation virtuelle</FRA>
+			<DEU>- Virtueller Standort</DEU>
+			<ITA>- Posizione Virtuale</ITA>
+			<JPN>- GPS変更</JPN>
+			<ESP>- Ubicación Virtual</ESP>
+			<NLD>- Virtuele Locatie</NLD>
+		</INF_VirtualLocationTitle>
+		<INF_VirtualLocationIntroduce>
+			<ENG>Change GPS location of your phone and freely plan your route.</ENG>
+			<CHS>改变你的手机的GPS位置，自由规划行进路线。</CHS>
+			<CHT>改變你的手機的GPS位置，自由規劃行進路線。</CHT>
+			<PTG>Altere a localização GPS do seu celular e planeje livremente sua rota.</PTG>
+			<ARA>بإمكانك تغيير موقع هاتفك الجغرافي والتنقل بحرية.</ARA>
+			<FRA>Veuillez changer la position GPS de votre téléphone et planifier librement votre&#xD;&#xA; itinéraire.</FRA>
+			<DEU>Ändern Sie die GPS-Position Ihres Telefons und planen Sie Ihre Route nach Bedarf.</DEU>
+			<ITA>Cambia la posizione GPS del tuo telefono e pianifica liberamente il tuo percorso.</ITA>
+			<JPN>スマホのGPSロケーションを変更し、移動ルートを自由に設定しましょう。</JPN>
+			<ESP>Cambia la ubicación GPS de tu teléfono y planifica libremente tu ruta.</ESP>
+			<NLD>Verander de GPS locatie van je telefoon en plan je route.</NLD>
+		</INF_VirtualLocationIntroduce>
+		<INF_VirtualLocationBenifit1>
+			<ENG>Teleport mode</ENG>
+			<CHS>瞬移模式</CHS>
+			<CHT>瞬移模式</CHT>
+			<PTG>Modo de teletransporte</PTG>
+			<ARA>وضع التنقل</ARA>
+			<FRA>Mode téléportation</FRA>
+			<DEU>Teleport-Modus</DEU>
+			<ITA>Modalità di Teletrasporto</ITA>
+			<JPN>テレポートモード</JPN>
+			<ESP>Modo teletransporte</ESP>
+			<NLD>Teleport modus</NLD>
+		</INF_VirtualLocationBenifit1>
+			<INF_VirtualLocationBenifit2>
+			<ENG>Walk mode</ENG>
+			<CHS>步行模式</CHS>
+			<CHT>步行模式</CHT>
+			<PTG>Modo de caminhada</PTG>
+			<ARA>وضع المشي</ARA>
+			<FRA>Mode promenade</FRA>
+			<DEU>Geh-Modus</DEU>
+			<ITA>Modalità Walk</ITA>
+			<JPN>ウォーキングモード</JPN>
+			<ESP>Modo caminar/paseo</ESP>
+			<NLD>Loop modus</NLD>
+		</INF_VirtualLocationBenifit2>
+			<INF_VirtualLocationBenifit3>
+			<ENG>Route mode</ENG>
+			<CHS>自由路线模式</CHS>
+			<CHT>自由路線模式</CHT>
+			<PTG>Modo de rota livre</PTG>
+			<ARA>وضع الاتجاهات</ARA>
+			<FRA>Mode route</FRA>
+			<DEU>Routenmodus</DEU>
+			<ITA>Modalità Percorso</ITA>
+			<JPN>フリールートモード</JPN>
+			<ESP>Modo ruta</ESP>
+			<NLD>Route modus</NLD>
+		</INF_VirtualLocationBenifit3>
+		<INF_VirtualLocationBenifit4>
+			<ENG>Historical records</ENG>
+			<CHS>历史记录</CHS>
+			<CHT>歷史記錄</CHT>
+			<PTG>Recordes historicos</PTG>
+			<ARA>المواقع السابقة</ARA>
+			<FRA>Enregistrements historiques</FRA>
+			<DEU>Aufzeichnungsverlauf</DEU>
+			<ITA>Documenti Storici</ITA>
+			<JPN>ロケーション履歴</JPN>
+			<ESP>Registros del historial</ESP>
+			<NLD>Historische gegevens</NLD>
+		</INF_VirtualLocationBenifit4>
+		<INF_VirtualLocationTrialMinute>
+			<ENG>2 hours</ENG>
+			<CHS>2小时</CHS>
+			<CHT>2小時</CHT>
+			<PTG>2 horas</PTG>
+			<ARA>ساعاتين</ARA>
+			<FRA>2 heures</FRA>
+			<DEU>2 Stunden</DEU>
+			<ITA>2 ore</ITA>
+			<JPN>2時間</JPN>
+			<ESP>2 horas</ESP>
+			<NLD>2 uur</NLD>
+		</INF_VirtualLocationTrialMinute>
+	</Language>
+	<FList>	
+		<Function>
+			<Guid>com.wondershare.drfonewin.iosrecovery</Guid>
+			<URL>DrfonewinIosrecoveryAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_RecoveryProductName</Name_Id>
+			<Introduction_Id>INF_IOSRecoverIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_RecoveryBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_RecoveryBenifit2" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)" />
+			   <Benifit Name_Id="INF_RecoveryBenifit3" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)" />
+			   <Benifit Name_Id="INF_RecoveryBenifit4"  trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidrecovery</Guid>
+			<URL>DrfonewinAndroidrecoveryAgentURL </URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_RecoveryProductName</Name_Id>
+			<Introduction_Id>INF_AndroidRecoverIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_RecoveryBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_RecoveryBenifit5" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_RecoveryBenifit6" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_RecoveryBenifit7" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_RecoveryBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.ioseraser</Guid>
+			<URL>DrfonewinIoseraserAgentURL </URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_EraserProductName</Name_Id>
+			<Introduction_Id>INF_EraserIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+				<Benifit Name_Id="INF_EraseBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>	
+				<Benifit Name_Id="INF_EraseBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+				<Benifit Name_Id="INF_EraseBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		<Function>
+			<Guid>com.wondershare.drfonewin.androideraser</Guid>
+			<URL>DrfonewinAndroideraserAgentURL  </URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_EraserProductName</Name_Id>
+			<Introduction_Id>INF_EraserIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+				<Benifit Name_Id="INF_EraseBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+
+		<Function>
+			<Guid>com.wondershare.drfonewin.iosclone</Guid>
+			<URL>DrfonewinIoscloneAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_CloneProductName</Name_Id>
+			<Introduction_Id>INF_CloneIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_CloneBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_CloneBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_SwitchTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+			</Benifits>
+		</Function>	
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidclone</Guid>
+			<URL>DrfonewinAndroidcloneAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_CloneProductName</Name_Id>
+			<Introduction_Id>INF_CloneIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_CloneBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_CloneBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_SwitchTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+			</Benifits>
+		</Function>	
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidroot</Guid>
+			<URL>DrfonewinAndroidrootAgentURL </URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_RootProductName</Name_Id>
+			<Introduction_Id>INF_RootIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_RootBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.iosbackuprestore</Guid>
+			<URL>DrfonewinIosbackuprestoreAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_BackupRestoreProductName</Name_Id>
+			<Introduction_Id>INF_BackupRestoreIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit2" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit6" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit7" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidbackuprestore</Guid>
+			<URL>DrfonewinAndroidbackuprestoreAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_BackupRestoreProductName</Name_Id>
+			<Introduction_Id>INF_BackupRestoreIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit2" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_BackupRestoreBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.iosrepair</Guid>
+			<URL>DrfonewinIosrepairAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_RepairProductName</Name_Id>
+			<Introduction_Id>INF_RepairIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_RepairBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidunlock</Guid>
+			<URL>DrfonewinAndroidunlockAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_UnlockProductName</Name_Id>
+			<Introduction_Id>INF_UnlockIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_UnlockBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		<Function>
+			<Guid>com.wondershare.drfonewin.androiduntwowipelock</Guid>
+			<URL>DrfonewinAndroidunlockAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_UnlockProductName</Name_Id>
+			<Introduction_Id>INF_UnlockIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_UnlockBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		<Function>
+			<Guid>com.wondershare.drfonewin.iosunlock</Guid>
+			<URL>DrfonewinIosUnlockAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_UnlockProductName</Name_Id>
+			<Introduction_Id>INF_UnlockIntroduce2</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_UnlockBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_UnlockBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		
+		<Function>
+			<Guid>com.wondershare.drfonewin.iostransfer</Guid>
+			<URL>DrfonewinIostransferAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_TransferProductName</Name_Id>
+			<Introduction_Id>INF_TransferIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_TransferBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_TransferBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_TransferBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				 <Benifit Name_Id="INF_TransferBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+		<Function>
+			<Guid>com.wondershare.drfonewin.androidtransfer</Guid>
+			<URL>DrfonewinAndroidtransferAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_TransferProductName</Name_Id>
+			<Introduction_Id>INF_TransferIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_TransferBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_TransferBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_TransferBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_TransferTrialCount</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				 <Benifit Name_Id="INF_TransferBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>	
+      <Function>
+			<Guid>com.wondershare.drfonewin.restoresocialapp</Guid>
+			<URL>DrfonewinSocialAppAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_SocialAppProductName</Name_Id>
+			<Introduction_Id>INF_SocialAppIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_SocialAppBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_SocialAppBenifit2" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_SocialAppBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_SocialAppBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>		
+		<Function>
+			<Guid>com.wondershare.drfonewin.itunesrepair</Guid>
+			<URL>DrfonewiniTunesRepairAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_iTunesRepairTitle</Name_Id>
+			<Introduction_Id>INF_iTunesRepairIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_iTunesRepairBenifit1" trialSkinName="UseOrNotImg(1)" regsterSkinName="UseOrNotImg(1)"/>
+			   <Benifit Name_Id="INF_iTunesRepairBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)" />
+			   <Benifit Name_Id="INF_iTunesRepairBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)" />
+			   <Benifit Name_Id="INF_iTunesRepairBenifit4"  trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+        <Function>
+			<Guid>com.wondershare.drfonewin.androidrepair</Guid>
+			<URL>DrfonewinAndroidRepairAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_AndroidRepairTitle</Name_Id>
+			<Introduction_Id>INF_AndroidRepairIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_AndroidRepairBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>
+        <Function>
+			<Guid>com.wondershare.drfonewin.iosvirtuallocation</Guid>
+			<URL>DrfonewinAndroidrootAgentURL</URL>
+			<TrialSubItemTitle1_id>INF_TrialItemTitle1</TrialSubItemTitle1_id>
+			<TrialSubItemTitle2_id>INF_TrialItemTitle2</TrialSubItemTitle2_id>
+			<TrialSubItemTitle3_id>INF_TrialItemTitle3</TrialSubItemTitle3_id>
+			<Name_Id>INF_VirtualLocationTitle</Name_Id>
+			<Introduction_Id>INF_VirtualLocationIntroduce</Introduction_Id>
+			<ChildrenIds/>
+			<Benifits>
+			   <Benifit Name_Id="INF_VirtualLocationBenifit1" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_VirtualLocationTrialMinute</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_VirtualLocationBenifit2" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_VirtualLocationTrialMinute</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+					<Benifit Name_Id="INF_VirtualLocationBenifit3" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)">
+					<TrialItem IsText="true">INF_VirtualLocationTrialMinute</TrialItem>
+					<RegisterItem IsText="false"></RegisterItem>
+				</Benifit>
+				<Benifit Name_Id="INF_VirtualLocationBenifit4" trialSkinName="UseOrNotImg" regsterSkinName="UseOrNotImg(1)"/>
+			</Benifits>
+		</Function>							
+	</FList>
+</Layout>

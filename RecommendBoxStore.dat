@@ -1,0 +1,150 @@
+<ToolBoxes>
+     <Item>
+    <Id>com.wondershare.drfonewin.virtuallocation</Id>
+    <Name>
+      <ko-KR> 가상 위치 </ko-KR>
+      <en-US>Virtual Location</en-US>
+      <fr-FR>Localisation virtuelle</fr-FR>
+      <de-DE>Virtueller Standort</de-DE>
+      <it-IT>Posizione Virtuale</it-IT>
+      <ja-JP>GPS変更</ja-JP>
+      <nl-NL>Virtuele Locatie</nl-NL>
+      <es-ES>Ubicación Virtual</es-ES>
+      <pt-PT>Localização Virtual</pt-PT>
+      <ar-SA>الموقع الافتراضي</ar-SA>
+      <zh-CN>虚拟定位</zh-CN>
+      <zh-TW>虛擬定位</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR> 휴대폰의 GPS 위치 변경 </ko-KR>
+      <en-US>Change your phone's GPS location</en-US>
+      <fr-FR>Modifier la position GPS de votre téléphone</fr-FR>
+      <de-DE>Ändern der GPS-Position Ihres Handys</de-DE>
+      <it-IT>Cambia la posizione GPS del tuo telefono</it-IT>
+      <ja-JP>iPhoneのGPSロケーションを変更</ja-JP>
+      <nl-NL>Verander de GPS locatie van je telefoon.</nl-NL>
+      <es-ES>Cambia la ubicación GPS de tu teléfono</es-ES>
+      <pt-PT>Altere a localização GPS do seu celular</pt-PT>
+      <ar-SA>تغيير موقع هاتفك الجغرافي</ar-SA>
+      <zh-CN>更改你的手机GPS位置</zh-CN>
+      <zh-TW>更改你的手機GPS位置</zh-TW>
+    </Description>
+    <PictureUrl>iconLocation</PictureUrl>
+    <Index>2</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>ReconBackCard</BackgroundPictureUrl>
+    <Size>288,312</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>virtuallocation</Label>
+    </DataCollect>
+  </Item>
+  
+   <Item>
+    <Id>com.wondershare.drfonewin.mirrorgo</Id>
+    <Name>
+      <ko-KR>MirrorGo</ko-KR>
+      <en-US>MirrorGo</en-US>
+      <fr-FR>MirrorGo</fr-FR>
+      <de-DE>MirrorGo</de-DE>
+      <it-IT>MirrorGo</it-IT>
+      <ja-JP>MirrorGo</ja-JP>
+      <nl-NL>MirrorGo</nl-NL>
+      <es-ES>MirrorGo</es-ES>
+      <pt-PT>MirrorGo</pt-PT>
+      <ar-SA>MirrorGo</ar-SA>
+      <zh-CN>MirrorGo</zh-CN>
+      <zh-TW>MirrorGo</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>휴대폰 화면을 PC로 미러링</ko-KR>
+      <en-US>Mirror your phone screen on the PC</en-US>
+      <fr-FR>Recopier de l'écran de &#xD;&#xA;téléphone sur l'ordinateur</fr-FR>
+      <de-DE>Handy-Bildschirm auf den PC übertragen</de-DE>
+      <it-IT>Duplica lo schermo del tuo telefono sul PC</it-IT>
+      <ja-JP>スマホの画面をPCにミラーリング</ja-JP>
+      <nl-NL>Spiegel uw telefoonscherm op de pc </nl-NL>
+      <es-ES>Ve la pantalla de tu teléfono en la PC</es-ES>
+      <pt-PT>Espelhe a tela do seu celular no PC </pt-PT>
+      <ar-SA>عرض شاشة هاتفك على جهاز الكمبيوتر</ar-SA>
+      <zh-CN>将手机屏幕镜像到PC</zh-CN>
+      <zh-TW>將手機屏幕鏡像到PC</zh-TW>
+    </Description>
+    <PictureUrl>iconMirrorgo</PictureUrl>
+    <Index>1</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>ReconBackCard</BackgroundPictureUrl>
+    <Size>288,312</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>mirrorgo</Label>
+    </DataCollect>
+  </Item>
+  
+   <Item>
+    <Id>com.wondershare.drfonewin.inclowdz</Id>
+    <Name>
+      <ko-KR>InClowdz</ko-KR>
+      <en-US>InClowdz</en-US>
+      <fr-FR>InClowdz</fr-FR>
+      <de-DE>InClowdz</de-DE>
+      <it-IT>InClowdz</it-IT>
+      <ja-JP>InClowdz</ja-JP>
+      <nl-NL>InClowdz</nl-NL>
+      <es-ES>InClowdz</es-ES>
+      <pt-PT>InClowdz</pt-PT>
+      <ar-SA>InClowdz</ar-SA>
+      <zh-CN>InClowdz</zh-CN>
+      <zh-TW>InClowdz</zh-TW>
+    </Name>
+    <Description>
+      <ko-KR>다른 클라우드간에 파일 마이그레이션 및 동기화</ko-KR>
+      <en-US>Migrate and Sync Files between different clouds</en-US>
+      <fr-FR>Migrer et synchroniser fichiers entre clouds</fr-FR>
+      <de-DE>Daten zwischen Clouds migrieren &amp; synchronisieren</de-DE>
+      <it-IT>Migra e sincrona file tra diversi cloud</it-IT>
+      <ja-JP>異なるクラウド間でのファイルの移行と同期</ja-JP>
+      <nl-NL>Migreer en synchroniseer gegevens tussen clouds</nl-NL>
+      <es-ES>Sincroniza archivos entre diferentes nubes</es-ES>
+      <pt-PT>Migre e sincronize arquivo entre diferentes clouds </pt-PT>
+      <ar-SA>تخزين و مزامنة الملفات بين غيوم مختلفة</ar-SA>
+      <zh-CN>迁移和同步不同云盘之间的文件</zh-CN>
+      <zh-TW>遷移和同步不同雲盤之間的文件</zh-TW>
+    </Description>
+    <PictureUrl>iconInClowdz</PictureUrl>
+    <Index>0</Index>
+    <ForeColor>0, 0, 0</ForeColor>
+    <BackColor></BackColor>
+    <HotForeColor>Black</HotForeColor>
+    <HotBackColor>0, 162, 234</HotBackColor>
+    <DescForeColor>60,60,67</DescForeColor>
+    <HotDescForeColor>60,60,67</HotDescForeColor>
+    <BackgroundPictureUrl>ReconBackCard</BackgroundPictureUrl>
+    <Size>288,312</Size>
+    <RunMode>process</RunMode>
+    <State>0</State>
+    <DataCollect>
+      <Category>Module_Behaviour</Category>
+      <Action>Start_Module</Action>
+      <Label>InClowdz</Label>
+    </DataCollect>
+  </Item>
+
+ 
+</ToolBoxes>
